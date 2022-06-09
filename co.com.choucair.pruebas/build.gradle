@@ -1,6 +1,6 @@
 group = 'co.com.choucair.pruebas'
 version = '1.0'
-description = 'Automatización '
+description = 'Automatización'
 apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'net.serenity-bdd.aggregator'
