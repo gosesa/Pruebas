@@ -1,0 +1,2446 @@
+<html lang="es_CO" class=""><head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    <meta name="google" content="notranslate">
+
+    <!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+
+	 dyn-cs:* URIs are resolved using the values within the 'wp_dynamicContentSpots_85' theme module. -->
+
+
+
+    <script src="https://cdn.dynamicyield.com/scripts/1.105.0/dy-coll-nojq-min.js" type="text/javascript" async="true"></script><script async="" src="https://scatec.io/t/app.js?id=8bd5285d-42d2-4028-92b6-f7e9538e2984"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TPV2TCF&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-4ES4HNJXCC&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4MKJHMZRE&amp;l=dataLayer&amp;cx=c"></script><script gtm="GTM-W95WRK" type="text/javascript" async="" src="https://www.googleoptimize.com/optimize.js?id=OPT-5GNTPJC"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA/analytics.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript" src="/negocios/ruxitagentjs_ICA27Vfgjqrux_10241220422021336.js" data-dtconfig="app=a45c5ecd168834f6|rcdec=1209600000|featureHash=ICA27Vfgjqrux|vcv=2|rdnt=1|uxrgce=1|bp=3|srmcrv=10|cuc=ok0ooszr|mel=100000|dpvc=1|ssv=4|lastModification=1655413521535|dtVersion=10241220422021336|srmcrl=1|tp=500,50,0,1|uxdcw=1500|agentUri=/negocios/ruxitagentjs_ICA27Vfgjqrux_10241220422021336.js|reportUrl=/negocios/rb_bf58324jks|rid=RID_1897097338|rpid=138803096|domain=bancolombia.com"></script><link rel="stylesheet" href="/contenthandler/!ut/p/digest!6dXoD7BccllBSDOqUzhETg/sp/mashup:ra:collection?soffset=0&amp;eoffset=59&amp;themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1651119528197&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_theme_portal_edit_85__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=bcn_herramientas__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=bcn_reset_wcm__0.0%3Ahead_css&amp;entry=bcn_modulos_trasversales__0.0%3Ahead_css&amp;entry=bcn_modulos_mercables__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/contenthandler/!ut/p/digest!6dXoD7BccllBSDOqUzhETg/sp/mashup:ra:collection?soffset=0&amp;eoffset=9&amp;themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1651119527754&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript">var djConfig={"baseUrl":"/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/themeModules/js/com","ibm":"/themeModules/js/ibm","pagebuilder":"/themeModules/modules/pagebuilder/js","portalclient":"/themeModules/modules/portalclient/js","asa":"/themeModules/modules/asa/js","contentmapping":"/themeModules/modules/contentmapping/js","federation":"/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_OHHGG4G0PGD540QNG7BAFU96S5"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_OHHGG4G0PGD540QNG7BAFU96S5","Z6_OHHGG4G0PGD540QNG7BAFU96S5","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41N8AD50QDBM0JIMJDS2","Z6_OHHGG4G0POIG00Q706UEHRJ614"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_2G9I1K41N8AD50QDBM0JIMJDS2','Z6_OHHGG4G0POIG00Q706UEHRJ614','Z6_OHHGG4G0PGD540QNG7BAFU96S5'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='';wpModules.state.page.protectedPath='/myportal';wpModules.state.page.publicPath='';})();</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!6dXoD7BccllBSDOqUzhETg/mashup/ra:collection?themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1651119534042&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=bcn_modulos_trasversales__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/contenthandler/!ut/p/digest!3JKaotSk_gMd0aUfF0xN-w/mashup/ra:collection?themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1536781742000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js&amp;deferred=true"><link id="y1P_RsIvmLE" rel="alternate" href="https://www.bancolombia.com/negocios/herramientas/formatos-contables-empresas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_T083N1N3A0C3F1MTQwC_dzNnRzdQi3Ngk31w8EKDHAARwP9KGL041EQhd_4cP0oVCv8Pd0NDALNDcxCXT2CvMwMTaAKjNwtPQ29TQz9LBxdTA0CXZx8Dbw8fb1cgo2gCvBYUpAbGmGQ6akIAGNjS-4!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("y1P_RsIvmLE");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><script src="https://library-sdb.apps.bancolombia.com/2.0.15/js/bds.min.js"></script>
+<link rel="stylesheet" href="https://library-sdb.apps.bancolombia.com/2.0.15/bds.min.css"><link rel="alternate" id="head_markup_deferred" href="/contenthandler/!ut/p/digest!QIzBjgII-KWB_IOuZGwh6g/mashup/ra:collection?themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_layout_windowstates__0.0%3Ahead_markup&amp;entry=wp_analytics_aggregator__0.0%3Ahead_markup&amp;deferred=true"><base href="https://www.bancolombia.com/negocios/herramientas/formatos-contables-empresas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_T083N1N3A0C3F1MTQwC_dzNnRzdQi3Ngk31w8EKDHAARwP9KGL041EQhd_4cP0oVCv8Pd0NDALNDcxCXT2CvMwMTaAKjNwtPQ29TQz9LBxdTA0CXZx8Dbw8fb1cgo2gCvBYUpAbGmGQ6akIAGNjS-4!/">
+<title>Formatos Básico Contables para Empresas</title>
+
+<meta content="Conozca el aplicativo de formatos básicos contables de Bancolombia. Descargue las plantillas que necesites aquí" name="description"><meta content="Conozca el aplicativo de formatos básicos contables de Bancolombia. Descargue las plantillas que necesites aquí" property="og:description"><meta content="index, follow" name="robots">
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/negocios/herramientas/formatos-contables-empresas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_T083N1N3A0C3F1MTQwC_dzNnRzdQi3Ngk31w8EKDHAARwP9KGL041EQhd_4cP0oVCv8Pd0NDALNDcxCXT2CvMwMTaAKjNwtPQ29TQz9LBxdTA0CXZx8Dbw8fb1cgo2gCvBYUpAbGmGQ6akIAGNjS-4!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X09ISEdHNEcwUEdENTQwUU5HN0JBRlU5NlM1/">
+
+
+<link href="/contenthandler/!ut/p/digest!4IelbDzT9hU3FNXN68iz1A/dav/fs-type1/themes/NegociosTheme/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<link rel="alternate" href="https://www.bancolombia.com/negocios/herramientas/formatos-contables-empresas" hreflang="es-CO">
+
+	        <link rel="canonical" href="https://www.bancolombia.com/negocios/herramientas/formatos-contables-empresas">
+	    
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Bancolombia">
+<meta name="twitter:creator" content="@Bancolombia">
+
+
+<meta property="og:title" content="Formatos Básico Contables para Empresas">
+<meta property="og:site_name" content="Bancolombia">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.bancolombia.com/negocios/herramientas/formatos-contables-empresas">
+<meta property="og.locale" content="es_CO">
+
+<link rel="preconnect" href="//cdn.dynamicyield.com">
+
+    <link rel="preconnect" href="//st.dynamicyield.com">
+
+    <link rel="preconnect" href="//rcom.dynamicyield.com">
+
+    <link rel="dns-prefetch" href="//cdn.dynamicyield.com">
+
+    <link rel="dns-prefetch" href="//st.dynamicyield.com">
+
+    <link rel="dns-prefetch" href="//rcom.dynamicyield.com">
+
+
+
+    <!-- rendering is delegated to the specified href for each locale -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha512-Zl1k/bs5R0zzwAw+kxzMh4HjpC2Y2fy8Qu8xoUUA4mXTYtgq6oWtLUUMSRiaJZ/hH0hwE7locgWLozvskZrnvw==" crossorigin="anonymous"></script>
+
+    <!-- Anti-flicker snippet (recommended)  -->
+
+    <style>
+
+        .async-hide {
+
+            opacity: 0 !important
+
+        }
+
+    </style>
+
+    <script>
+
+        (function(a, s, y, n, c, h, i, d, e) {
+
+            s.className += ' ' + y;
+
+            h.start = 1 * new Date;
+
+            h.end = i = function() {
+
+                s.className = s.className.replace(RegExp(' ?' + y), '')
+
+            };
+
+            (a[n] = a[n] || []).hide = h;
+
+            setTimeout(function() {
+
+                i();
+
+                h.end = null
+
+            }, c);
+
+            h.timeout = c;
+
+        })(window, document.documentElement, 'async-hide', 'dataLayer', 4000, {
+
+            'GTM-W95WRK': true
+
+        });
+
+    </script>
+
+    <script>
+
+        (function(w, d, s, l, i) {
+
+            w[l] = w[l] || [];
+
+            w[l].push({
+
+                'gtm.start': new Date().getTime(),
+
+                event: 'gtm.js'
+
+            });
+
+            var f = d.getElementsByTagName(s)[0],
+
+                j = d.createElement(s),
+
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+
+            j.async = true;
+
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+
+            f.parentNode.insertBefore(j, f);
+
+        })(window, document, 'script', 'dataLayer', 'GTM-W95WRK');
+
+    </script>
+
+    
+		<script type="text/javascript" src="//cdn.dynamicyield.com/api/8775742/api_dynamic.js"></script>
+		<script type="text/javascript" src="//cdn.dynamicyield.com/api/8775742/api_static.js"></script><style id="dy-common-style" class="dy-common-style" type="text/css">.dy-wysiwyg{line-height:normal;direction:ltr;align-text:left;margin:0;padding:0;background-color:transparent}.dy-wysiwyg a{text-decoration:none;color:#00e}.dynotifyjs-wrapper .dy-lb-close{z-index:1;top:-8px;right:-9px;border:none;transition:opacity .15s;opacity:.7;background-size:14px;background-repeat:no-repeat;background-position:2px;width:18px;height:18px}.dynotifyjs-wrapper .dy-lb-close:hover{opacity:1}.dynotifyjs-corner{position:fixed;margin:0;z-index:1050}.dynotifyjs-corner .dynotifyjs-container,.dynotifyjs-corner .dynotifyjs-wrapper{position:relative;display:block;height:inherit;width:inherit;margin:11px 8px}.dynotifyjs-wrapper{z-index:1;position:absolute;display:inline-block;height:0;width:0}.dynotifyjs-container{display:none;z-index:1;position:absolute}[data-dynotify-html],[data-dynotify-text]{position:relative}.dynotifyjs-arrow{position:absolute;z-index:2;width:0;height:0}.dy-lb-close{position:absolute;top:-12px;right:-11px;cursor:pointer;color:#fff;border:1px solid #918686;border-radius:30px;display:inline-block;height:22px;width:22px;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==);background-size:22px}.dy-full-width-notifications-close{top:5px;right:5px;z-index:1;border:none;transition:opacity .15s;-webkit-transition:opacity .15s;opacity:.7;width:18px;height:18px;position:absolute;cursor:pointer;color:#fff;border-radius:30px;display:inline-block;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==);background-size:14px;background-repeat:no-repeat;background-position:2px}.dy-full-width-notifications-close:hover{opacity:1}.dy_full_width_notifications_container{position:fixed;left:0;right:0;z-index:1040}.dy_full_width_notifications_container.dy_bottom_notification{bottom:0}.dy_full_width_notifications_container.dy_top_notification{top:0}.dy_full_width_notifications_container .dy_full_width_notification_instance{opacity:0;-webkit-transition:opacity .15s;transition:opacity .15s;position:relative}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_active{opacity:1}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_bottom{-webkit-animation:dy_appear_from_bottom .25s;animation:dy_appear_from_bottom .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_top{-webkit-animation:dy_appear_from_top .25s;animation:dy_appear_from_top .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_top{-webkit-animation:dy_exit_top .25s;animation:dy_exit_top .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_bottom{-webkit-animation:dy_exit_bottom .25s;animation:dy_exit_bottom .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}@-webkit-keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@-webkit-keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}@keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}.dy-modal-container{position:fixed;z-index:99999;top:0;left:0;bottom:0;right:0;width:100%;height:100vh;display:table;-webkit-transition:opacity .2s ease;transition:opacity .2s ease}.dy-modal-container .dy-modal-backdrop{position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;opacity:0;-webkit-transition:opacity .2s;transition:opacity .2s;background-color:#000}.dy-modal-container .dy-modal-wrapper{position:relative;z-index:1;display:table-cell;vertical-align:middle;text-align:center;width:100%}.dy-modal-container .dy-modal-wrapper.dy-modal-bottom{padding-bottom:20px;vertical-align:bottom}.dy-modal-container .dy-modal-wrapper.dy-modal-top{padding-top:20px;vertical-align:top}.dy-modal-container .dy-modal-wrapper .dy-modal-contents{position:relative;display:inline-block;-webkit-animation:dy-modal-enter .25s;animation:dy-modal-enter .25s;visibility:hidden}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close{z-index:1;top:-9px;right:-9px;border:none;opacity:.7;transition:opacity .15s;width:18px;height:18px;cursor:pointer;position:absolute;border-radius:30px;color:#fff;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==) no-repeat 2px;background-size:14px}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close:hover{opacity:1}@-webkit-keyframes dy-modal-enter{0%{opacity:0;-webkit-transform:scale(.5);transform:scale(.5)}50%{-webkit-transform:scale(1.05);transform:scale(1.05)}85%{-webkit-transform:scale(1.1);transform:scale(1.1)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style><script type="text/javascript" async="true" src="//st.dynamicyield.com/st?sec=8775742&amp;inHead=true&amp;id=3553340305219314265&amp;jsession=945f284446e30810416a962d0d9d1da0&amp;ref=https%3A%2F%2Fwww.bancolombia.com%2F&amp;scriptVersion=1.105.0&amp;dyid_server=3553340305219314265"></script>
+	
+<script type="text/javascript">
+	function readCookie(name) { return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + name.replace(/[\-\.\+\*]/g, "\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;}
+	function _idyServer() {
+        Date.prototype.addYears = function(n) {
+            var now = new Date();
+            return new Date(now.setFullYear(now.getFullYear() + n));
+        };	    
+	    let readId = readCookie('_dyid');
+	    if (readId !== null) {
+	        let nameNewCookie,dataCookie,d,expiresdate
+	        nameNewCookie = '_dyid_server'
+	        dataCookie = encodeURIComponent(readId)
+	        d = new Date().addYears(1);
+	        expiresdate = d
+	        document.cookie = nameNewCookie+"=" + dataCookie + "; expires=" + expiresdate.toUTCString()
+	    }
+	}
+	_idyServer()
+</script><script async="" src="https://static.hotjar.com/c/hotjar-373418.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.b871a939666125f20d79.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+
+
+
+<!-- Google Tag Manager (noscript) -->
+
+<body id="content" class="toolbar-closed"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+
+    <div class="wpthemeFrame">
+
+        <header role="banner" tabindex="-1" aria-label="Main header">
+
+            </header>
+
+    </div>
+
+    <!-- end frame class="wpthemeMainContent" -->
+
+    <div role="main" tabindex="-1" aria-label="IBM WebSphere Portal">
+
+        <!-- required - do not remove -->
+
+        <div style="display:none" id="portletState">{}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">
+
+            <div class="wpthemeInner">
+
+                <div class="hiddenWidgetsDiv">
+	<!-- widgets in this container are hidden in the UI by default -->
+	<div class="component-container ibmDndRow wpthemeRow hiddenWidgetsContainer wpthemeCol12of12 wpthemeFull id-Z7_OHHGG4G0PGD540QNG7BAFU9624" name="ibmHiddenWidgets"></div><div style="clear:both"></div>
+</div>
+<!-- this layout has one main container -->
+<div class="wptheme1Col">
+	<div class="component-container wpthemeLeft wpthemeCol ibmDndColumn wpthemeCol12of12 wpthemeFull wpthemePrimary id-Z7_OHHGG4G0PGD540QNG7BAFU9622" name="ibmMainContainer"><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU9621"><span id="Z7_OHHGG4G0PGD540QNG7BAFU9621"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU9621" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU9621</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <!--css Negocios-->
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/34effefe-5015-4f73-822b-a9956135489a/header.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-34effefe-5015-4f73-822b-a9956135489a-nOQ1nzP" type="text/css">
+<link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/1e8a4cd3-aae7-4991-844d-c18463656074/headernew.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-1e8a4cd3-aae7-4991-844d-c18463656074-n-N.C2T" type="text/css">
+
+
+  <header id="old-headerMain" class="old-header-main headernegocio">
+        <div class="old-header-top color-white">
+            <div class=" bc-container bc-container-max">
+                <nav class="old-header-top_nav prinheader">
+                    <ul class="old-header-top_menu">
+                        <li class="old-header-top_item" id="linkPersonas">
+                            <a href="/personas" title="" target="" class="old-header-top_link">Personas</a>
+                        </li>
+                        <!-- /header-top_item -->
+                        <!-- FENIX -->
+                        <li class="old-header-top_item" id="linkPymes">
+                            <a href="/negocios" title="" target="" class="old-header-top_link active">Negocios</a>
+                        </li>
+                        <!-- /header-top_item -->
+                        <li class="old-header-top_item" id="linkEmpresas">
+                            <a href="/wps/portal/empresas" title="" target="" class="old-header-top_link">Empresas</a>
+                        </li>
+                        <!-- /header-top_item -->
+                        <li class="old-header-top_item" id="linkAcercaDe">
+                            <a href="/wps/portal/acerca-de" title="" target="" class="old-header-top_link">Acerca de Nosotros</a>
+                        </li>
+                        <!-- /header-top_item -->
+                        <li class="old-header-top_item has-submenu" id="menu-filiales">
+                            <a class="old-header-top_link" id="linkactive">Negocios Especializados  <em class="bc-icon bc-xs" onclick="cerrarnegocio()">icon-arrow2-down</em></a>
+                            <div class="old-header-top_submenu bg-white color-default" id="negocioespe">
+                                <div class="bc-container">
+                                    <div class="row">
+                                        <em class="bc-icon bc-sm cerrarnego" onclick="cerrarnegocio()">icon-error</em>
+                                        <div class="bc-col-md-4">
+                                            <h3 class="submenu-title">Negocios en Colombia</h3>
+
+                                            <ul class="submenu-cont">
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://bancainversion.grupobancolombia.com" class="submenu-cont_link">Banca de Inversión Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://fiduciaria.grupobancolombia.com" class="submenu-cont_link">Fiduciaria Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://leasing.grupobancolombia.com" class="submenu-cont_link">Leasing Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://renting.grupobancolombia.com" class="submenu-cont_link">Renting Colombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://valores.grupobancolombia.com" class="submenu-cont_link">Valores Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://factoring.grupobancolombia.com" class="submenu-cont_link">Factoring Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://assetmanagement.grupobancolombia.com" class="submenu-cont_link">Asset Management</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://comerciointernacional.grupobancolombia.com" class="submenu-cont_link">Comercio Internacional</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://sufi.grupobancolombia.com" class="submenu-cont_link">Sufi</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="http://www.tuya.com.co" class="submenu-cont_link">Tuya</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                            </ul>
+                                            <!-- /submenu-cont -->
+                                        </div>
+                                        <!-- /col -->
+                                        <div class="bc-col-md-4">
+                                            <h3 class="submenu-title">Entidades en el exterior</h3>
+                                            <ul class="submenu-cont">
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://valoresbanistmo.grupobancolombia.com" class="submenu-cont_link">Valores Banistmo</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://sucursalpanama.grupobancolombia.com" class="submenu-cont_link">Sucursal Panamá</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://panama.grupobancolombia.com" class="submenu-cont_link">Bancolombia Panamá</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://cayman.grupobancolombia.com" class="submenu-cont_link">Bancolombia Cayman</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://puertorico.grupobancolombia.com" class="submenu-cont_link">Bancolombia Puerto
+          Rico</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://www.banistmo.com/wps/portal/banistmo/personas" class="submenu-cont_link">Banistmo</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="http://www.bancoagricola.com" class="submenu-cont_link">Banco Agrícola</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="http://www.bam.com.gt" class="submenu-cont_link">BAM (Banco Agromercantil
+          de
+          Guatemala)</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                            </ul>
+                                            <!-- /submenu-cont -->
+                                        </div>
+                                        <!-- /col -->
+                                    </div>
+                                </div>
+                                <!-- /container -->
+                            </div>
+                            <!-- /header-top_submenu -->
+                        </li>
+                        <!-- /header-top_item -->
+                        <li class="old-header-top_item">
+                            <a href="/tu360" title="" target="" onclick="changeActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe'); changeDesActive('linkPymes');" class="old-header-top_link">Tu360</a>
+                        </li>
+                    </ul>
+
+                </nav>
+            </div>
+            <!-- /container -->
+        </div>
+        <!-- /header-top -->
+
+        <div class="bc-container bc-container-max">
+            <div class="old-header-main_cont bc-d-flex">
+                <figure class="old-header-main_logo" itemscope="" itemtype="http://schema.org/brand">
+                    <a href="/negocios/" title="Negocios" target="">
+                        <img src="/wcm/connect/a67af2d6-c768-4f4f-a33b-fd58074f7ce9/logo-bancolombia-black.svg?MOD=AJPERES" alt="Negocios" itemprop="logo">
+                        <!-- <img src="img/header/logo-bancolombia-black.svg" class="imglogo" alt="Negocios" itemprop="logo" /> -->
+                    </a>
+                </figure>
+
+                <div class="old-header-main_btns bc-d-flex">
+
+                    <a href="/wps/portal/empresas/necesidades/documentos/" title="" target="" class="u-button u-button--icon shadow-gray solicitudbtn"> Solicitud de documentos  <em class="bc-icon bc-sm">icon-document</em> 
+</a>
+                    <div class="menu-transactions">
+                        <div class="has-submenu">
+                            <a class="menu-transactions_link transacciones" id="old-transaction_link">TRANSACCIONES<em class="bc-icon bc-sm">icon-lock</em> </a>
+                            <div class="menu-transactions_submenu">
+                                <div class="cerrar">
+                                    <a style="cursor: pointer;">Cerrar <span>x</span></a>
+                                </div>
+                                <a href="https://sucursalvirtualpyme.bancolombia.com" target="_blank" class="old-sucursal-virtual">Sucursal Virtual Pymes</a>
+                                <a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" target="_blank" class="ng-binding old-sucursal-virtual" onclick="SVPersonas()">Sucursal Virtual Personas  </a>
+                                <a href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia" target="_blank" class="ng-binding old-sucursal-virtual" onclick="SVEmpresas()">Sucursal Virtual Empresas</a>
+                                <a href="/wps/portal/empresas/necesidades/documentos/" target="_self" class="ng-binding old-sucursal-virtual">Solicitud de documentos</a>
+                                <div class="bc-row">
+                                    <div class="bc-col-12 conocer"><a href="/wps/portal/empresas/transacciones/" class="font-bold">Ver más</a></div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- /col -->
+            </div>
+
+            <div>
+                <button id="old-mobile-button-buscar" class="old-mobile-button old-mobile-buscar">                    
+                    <em class="bc-icon bc-sm center-block mobile-navigation_bar" alt="Buscar" onclick="centerblock()">icon-search</em>                 
+                </button>
+            </div>
+
+            <div>
+                <button id="old-mobile-button" class="old-mobile-button">
+                    <em class="bc-icon bc-sm mobile-navigation_bar" onclick="menunegocio()">icon-menu</em>                   
+                </button>
+            </div>
+            <!--- /row -->
+        </div>
+        <section class="old-header-main2">
+            <div class="old-header-top color-white">
+                <div class="bc-container bc-container-max">
+                    <div class="old-header-top_nav">
+                        <div>
+                            <ul class="old-header-top_menu">
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/" class="old-header-top_link">Inicio</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/actualizate/" class="old-header-top_link">Actualízate</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/productos-financieros/" class="old-header-top_link">Productos financieros</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/herramientas/" class="old-header-top_link">Herramientas</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/beneficios/" class="old-header-top_link">Beneficios</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="dropdown old-header-top_item">
+                                    <a class="dropdown-toggle old-header-top_link" data-toggle="dropdown" href="#">Formación <em class="bc-icon bc-xs">icon-arrow2-down</em></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/negocios/formacion/">Social Selling</a></li>
+                                        <li><a href="/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li>
+                                    </ul>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="dropdown old-header-top_item"><a class="dropdown-toggle old-header-top_link" data-toggle="dropdown" href="#">Sectores <em class="bc-icon bc-xs">icon-arrow2-down</em></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/negocios/sectores/agroindustria/">Agroindustria</a></li>
+                                        <li><a href="/negocios/sectores/comercios">Comercios</a></li>
+                                    </ul>
+                                </li>
+                                <li class="old-header-top_item"><a href="/negocios/comercio-internacional" class="old-header-top_link">Comercio Internacional</a></li>
+                                <li class="old-header-top_item"><a href="/tu360/negocios" title="" target="" class="old-header-top_link">Tu360Negocios</a></li>
+
+                                <!-- /header-top_item -->
+
+                            </ul>
+
+                        </div>
+                        <div class="searchHeader hidden-xs hidden-sm visible-md visible-lg">
+                            <em class="bc-icon bc-sm center-block" alt="Buscar" onclick="centerblock()">icon-search</em>
+                        </div>
+                    </div>
+                </div>
+                <!-- /container -->
+            </div>
+            <!-- /header-top -->
+        </section>
+        <!--buscardor-->
+        <div class="searchRwd" id="headerbuscar" style="display: none;">
+            <div class="bc-container">
+                <div class="row">
+                    <form action="/negocios/buscador">
+                        <div class="bc-col-sm-8 bc-col-xs-8">
+                            <input type="search" placeholder="Busca lo que tú necesitas" name="termino" id="terminoBusqueda2" class="ui-autocomplete-input" autocomplete="off">
+                        </div>
+                        <div class="bc-col-sm-4 col-xs-4">
+                            <div class="row">
+                                <input type="submit" value="Buscar" class="btnPrincipal">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- /container -->
+
+        <div class="old-mobile-navigation" id="old-mobile-navigation">
+            <div class="mobile-navigation_cont">
+                <div class="mobile-navigation_logo">
+                    <figure itemscope="" itemtype="http://schema.org/brand">
+                        <a href="/negocios" title="Negocios" target="">
+                            <img src="/wcm/connect/a67af2d6-c768-4f4f-a33b-fd58074f7ce9/logo-bancolombia-black.svg?MOD=AJPERES" alt="Negocios" itemprop="logo">
+                            <!-- <img src="img/header/logo-bancolombia-black.svg" class="imglogo" alt="Negocios" itemprop="logo" /> -->
+                        </a>
+                    </figure>
+                    <!-- /Figure -->
+                    <div>
+                        <em id="button-close" class="bc-icon bc-sm button-close">icon-error</em>
+                    </div>
+                </div>
+                <div class="mobile-navigation_pane color-default">
+                    <nav class="mobile-navigation_nav">
+
+                        <ul class="mobile-navigation_menu">
+                            <li class="has-submenu negocioinicio">
+                                <a href="/negocios" class="mobile-navigation_link">Inicio</a>
+                            </li>
+
+                            <li>
+                                <a href="/negocios/actualizate/" class="mobile-navigation_link">Actualizate</a>
+
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/negocios/productos-financieros/" title="" target="" class="mobile-navigation_link">Productos financieros</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/negocios/herramientas/" title="" target="" class="mobile-navigation_link">Herramientas</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/negocios/beneficios/" title="" target="" class="mobile-navigation_link">Beneficios</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li class="has-submenu">
+                                <a href="#" title="" target="" class="mobile-navigation_link">Formación <em class="bc-icon bc-sm iconoright">icon-arrow2-down</em></a>
+                                <ul class="mobile-submenu old-submenu-accordion">
+                                    <li class="mobile-submenu_item">
+                                        <a href="/negocios/formacion" title="" target="">Social Selling</a>
+                                    </li>
+                                    <li class="mobile-submenu_item">
+                                        <a href="/negocios/comercio-internacional/importar/empezar/incoterms" title="" target="">Incoterms</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li class="has-submenu">
+                                <a href="#" title="" target="" class="mobile-navigation_link">Sectores <em class="bc-icon bc-sm iconoright">icon-arrow2-down</em></a>
+                                <ul class="mobile-submenu old-submenu-accordion">
+                                    <li class="mobile-submenu_item">
+                                        <a href="/negocios/sectores/agroindustria" title="" target="">Agroindustria</a>
+                                    </li>
+                                    <li class="mobile-submenu_item">
+                                        <a href="/negocios/sectores/comercios" title="" target="">Comercios</a>
+                                    </li>
+
+                                </ul>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/negocios/comercio-internacional" title="" target="" class="mobile-navigation_link">Comercio Internacional</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/tu360/negocio" title="" target="" class="mobile-navigation_link">Tu360negocios</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/wps/portal/empresas/necesidades/documentos/" title="" target="" class="mobile-navigation_link">Solicitud de documento</a>
+                            </li>
+
+                            <li class="has-submenu">
+                                <a href="#" title="" target="" class="mobile-navigation_link">Transacciones<em class="bc-icon bc-sm iconoright">icon-arrow2-down</em></a>
+                                <ul class="mobile-submenu old-submenu-accordion">
+                                    <li class="mobile-submenu_item">
+                                        <a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp"> Sucursal Virtual Personas </a>
+                                    </li>
+                                    <!-- /mobile-submenu_item -->
+                                    <li class="mobile-submenu_item">
+                                        <a href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia">Sucursal Virtual Empresas</a>
+                                    </li>
+                                    <!-- /mobile-submenu_item -->
+                                    <li class="mobile-submenu_item">
+                                        <a href="/wps/portal/empresas/necesidades/documentos/" title="" target="">Solicitud de documentos</a>
+                                    </li>
+                                    <!-- /mobile-submenu_item -->
+                                    <li class="mobile-submenu_item">
+                                        <a onclick="MM_openBrWindow('https://facturanet.todo1.com/default_finalBancolombia.asp?pais=CO&amp;ingreso=si','VentanaUnicaFCN','status=yes,scrollbars=yes,resizable=yes,width=1024,height=768')" title="" target="">Facturanet</a>
+                                    </li>
+                                    <!-- /mobile-submenu_item -->
+                                    <li class="mobile-submenu_item">
+                                        <a href="/personas/solicitud-de-productos-wcm" title="" target="">Solicitud de Productos</a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </nav>
+                    <div class="redesHeader">
+                        <ul class="list_redes">
+                            <li><a href="https://www.facebook.com/bancolombia"><em class="bc-icon bc-sm fab" alt="face">icon-facebook</em></a></li>
+                            <li><a href="https://twitter.com/Bancolombia"><em class="bc-icon bc-sm fab" alt="face">icon-twitter</em></a></li>
+                            <li><a href="https://www.linkedin.com/company/22690"><em class="bc-icon bc-sm fab" alt="face">icon-instagram</em></a></li>
+                            <li><a href="https://instagram.com/bancolombia"><em class="bc-icon bc-sm fab" alt="face">icon-youtube</em></a></li>
+                            <li><a href="https://www.youtube.com/user/GrupoBancolombia"><em class="bc-icon bc-sm fab" alt="face">icon-linkedin</em></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- /mobile-navigation_cont. -->
+        </div>
+    </header>
+
+<!--js Negocios-->
+<script src="/wcm/connect/www.bancolombia.com-26918/0750b05a-69c7-4811-83d9-b2a1c31fba4a/general.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-0750b05a-69c7-4811-83d9-b2a1c31fba4a-nOQ2c3a"></script>
+<script src="/wcm/connect/www.bancolombia.com-26918/72f016e2-0326-4be9-8e45-2feb28bcf15c/headerinternas.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-72f016e2-0326-4be9-8e45-2feb28bcf15c-nOQ6ccU"></script>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU9623"><span id="Z7_OHHGG4G0PGD540QNG7BAFU9623"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU9623" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU9623</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            
+	<div class="breadcrumbs" id="breadcrumbs">
+		
+            <div class="container container-max">
+                <ul itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">							
+                    								
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                										
+                                <a itemprop="item" href="/negocios">
+                                        <span itemprop="name">Negocios</span>
+                                        <meta itemprop="position" content="1">
+                                </a>										
+                            </li>
+                    								
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                										
+                                <a itemprop="item" href="/negocios/herramientas">
+                                        <span itemprop="name">Herramientas</span>
+                                        <meta itemprop="position" content="2">
+                                </a>										
+                            </li>
+                    								
+                        <li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+                                										
+                                <a itemprop="item" href="/negocios/herramientas/formatos-contables-empresas">
+                                        <span itemprop="name">Formatos básicos contables para empresas</span>
+                                        <meta itemprop="position" content="3">
+                                </a>										
+                            </li>
+                    
+                </ul>
+            </div>
+		
+	</div>
+
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU96I0"><span id="Z7_OHHGG4G0PGD540QNG7BAFU96I0"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU96I0" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU96I0</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+<script type="application/ld+json">
+   {
+  "@context": "",
+  "@type": "CreditCard",
+  "name": "Visa® Credit Card",
+  "requiredCollateral": "Requires a minimum $300 security deposit.",
+  "amount": {
+      "@type": "MonetaryAmount",
+      "minValue": "300",
+      "maxValue": "10000",
+      "currency": "USD"
+  },
+  "offers": {
+      "@type": "Offer",
+      "offeredBy": {
+        "@type": "BankOrCreditUnion",
+        "name":"Wells Fargo"
+      },
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "25",
+        "priceCurrency": "USD",
+        "referenceQuantity": {
+          "@type": "QuantitativeValue",
+          "value": "1",
+          "unitCode": "ANN"
+        }
+      }
+  },
+  "annualPercentageRate": "18.99",
+  "feesAndCommissionsSpecification": ""
+}
+</script>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU96I2"><span id="Z7_OHHGG4G0PGD540QNG7BAFU96I2"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU96I2" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU96I2</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+              
+
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU96I1"><span id="Z7_OHHGG4G0PGD540QNG7BAFU96I1"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU96I1" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU96I1</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link rel="stylesheet" title="" href="/wcm/connect/www.bancolombia.com-26918/160f75f9-d21a-4edf-a27c-6d64cfa829cb/Banner-negocios.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-160f75f9-d21a-4edf-a27c-6d64cfa829cb-o4wlhRt" type="text/css">
+
+<section class="A-Banner" style="background-color:#FFFFFF;">
+    <div class="bc-container">
+        <div class="bc-row">
+            <div class="bc-col-12 bc-col-lg-6 bc-d-flex">
+                <div class="A-Banner-Content bc-m-auto">
+                    <h1 class="A-Banner-Content-Hero bc-mb-2">Formatos básicos contables</h1>
+                    <p>
+                        En estas plantillas encontrarás unas guías valiosas para tu negocio que te servirán para ahorrar tiempo y hacer un seguimiento adecuado a temas de contabilidad y finanzas.
+                    </p>
+                    <div class="Disclaimer">
+                        <div class="bc-flex">
+                            <i class="bc-icon bc-md" aria-hidden="true" aria-label="prueba" role="img"></i>
+                            <span></span>
+                        </div>
+                    </div>
+
+                    
+<div class="bc-d-flex bc-flex-column bc-flex-md-row">
+                        
+                        
+                        <div class="bc-flex  bc-mt-2">
+                            <i class="bc-icon bc-sm bc-padding-top-0 bc-padding-right-1" aria-hidden="true" aria-label="prueba" role="img">ico-user-check-2</i>
+                            <span>Conocimientos financieros</span>
+                        </div>
+                        
+                    </div>
+
+
+                    <div class="Disclaimer">
+                        <i class="bc-icon bc-md" aria-hidden="true" aria-label="prueba" role="img">ico-documents</i>
+                        <span>Documentosde apoyo: Estado de resultados</span>
+                    </div>
+
+
+
+
+<a href="/wcm/connect/1a7f3e47-71da-4fe3-917e-db3fb04d181d/pag+formatos+contables.zip?MOD=AJPERES" class="btn btn-download bc-mt-4 bc-mb-4">Descargar herramienta</a>
+
+
+                    
+                </div>
+            </div>
+            <div class="bc-col-12 bc-col-lg-6">
+                <div class="A-Banner-Image">
+                        <img src="/wcm/connect/www.bancolombia.com-26918/de295f82-6ce9-4e81-b316-43e958cec552/Image+%282%29.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-de295f82-6ce9-4e81-b316-43e958cec552-nJl8pgK" alt="" srcset="">
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU96I3"><span id="Z7_OHHGG4G0PGD540QNG7BAFU96I3"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU96I3" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU96I3</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+
+<section id="beneficios" class="beneficios" style="background-color:#f4f4f4">
+        <div class="bc-container">
+            <div class="titulo-contenido-swiper">
+                <h2 class="text-center">Beneficios</h2>
+            </div>
+            <div class="swiperBeneficios swiper-container swiper-container-horizontal">
+                <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);">
+                    
+
+
+<div class="swiper-slide modulo-carusel swiper-slide-active" style="width: 543px; margin-right: 30px;">
+    <div class="img-swiper">
+        <img src="/wcm/connect/www.bancolombia.com-26918/c840d512-a1b6-4d3c-9ef3-06dbff3d87b6/BEN_DESK-1.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-c840d512-a1b6-4d3c-9ef3-06dbff3d87b6-nRoIyrF" alt="">
+    </div>
+    <div class="cont-swiper">
+        <h3>
+            Descarga gratis 
+        </h3>
+        <p>
+            Formatos contables en Excel sin ningún costo.
+        </p>
+        
+    </div>
+</div>
+
+
+
+<div class="swiper-slide modulo-carusel swiper-slide-next" style="width: 543px; margin-right: 30px;">
+    <div class="img-swiper">
+        <img src="/wcm/connect/www.bancolombia.com-26918/bf442661-7341-429d-b4bb-072ebd6c4788/BEN_DESK.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-bf442661-7341-429d-b4bb-072ebd6c4788-nRoJpVh" alt="">
+    </div>
+    <div class="cont-swiper">
+        <h3>
+            Construye balance general 
+        </h3>
+        <p>
+            Herramienta que muestra el estado financiero de tu negocio en un momento determinado, para esto se utilizan activos, pasivos y patrimonio.
+        </p>
+        
+    </div>
+</div>
+
+
+
+<div class="swiper-slide modulo-carusel" style="width: 543px; margin-right: 30px;">
+    <div class="img-swiper">
+        <img src="/wcm/connect/www.bancolombia.com-26918/86629d5f-daa8-4b2f-9df1-7c272c5348df/BEN_DESK-2.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-86629d5f-daa8-4b2f-9df1-7c272c5348df-nRoJRtz" alt="">
+    </div>
+    <div class="cont-swiper">
+        <h3>
+            Estado de resultados 
+        </h3>
+        <p>
+            Herramienta que sirve para determinar la rentabilidad de tu negocio, ya que muestra a detalle todos los ingresos, gastos, pérdidas o beneficios en un determinado periodo.
+        </p>
+        
+    </div>
+</div>
+
+                </div>
+                <div class="pagination">
+                    <div id="swipper-beneficios-pagination" class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span></div>
+                </div>
+                <div id="swipper-btn-next-completo" class="boton-redondo swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false">
+                    <i class="bc-icon">arrow-right</i>
+                </div>
+                <div id="swipper-btn-prev-completo" class="boton-redondo swiper-button-prev swiper-button-disabled" tabindex="0" role="button" aria-label="Previous slide" aria-disabled="true">
+                    <i class="bc-icon">arrow-left</i>
+                </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        </div>
+</section>
+
+<style>section.beneficios .swiperBeneficios.swiper-container .swiper-slide.modulo-carusel {justify-content: flex-start;}section.beneficios .swiperBeneficios.swiper-container .boton-redondo {display: block;line-height: 65px;padding-left: 16px;}section.beneficios .swiperBeneficios.swiper-container .swiper-button-lock{display:none !important;}section.beneficios .swiperBeneficios.swiper-container .boton-redondo.swiper-button-next .bc-icon,section.beneficios .swiperBeneficios.swiper-container .boton-redondo.swiper-button-prev .bc-icon {position: relative;left: 0;top: 0;transform: none;-webkit-transform: none;}
+@media only screen and (max-width: 991px){section.beneficios .swiperBeneficios.swiper-container .boton-redondo {display: none;}}
+</style>
+<script defer="" type="module" src="/wcm/connect/www.bancolombia.com-26918/e3bed1ba-aca7-4c46-a712-b7e99c951abd/BeneficiosJs.min.js?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-e3bed1ba-aca7-4c46-a712-b7e99c951abd-o4AVimB"></script>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU9UC1"><span id="Z7_OHHGG4G0PGD540QNG7BAFU9UC1"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU9UC1" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU9UC1</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+
+<section id="caracteristicas" class="contentCaracteristicas bc-py-5" style="background-color:#F5B6CD">
+    <div class="bc-container item-text1-bold">
+        <h2 class="text-center">Conceptos</h2>
+        
+            <p class="text-center">Estos son algunos conceptos que debes tener en cuenta antes de usar los formatos básicos contables.</p>
+        
+        <div class="class-container bc-row  bc-justify-content-center bc-mt-5">
+
+<div class="bc-col-9 bc-col-sm-6 bc-col-lg-3 bc-col-xl-2 bc-mobile-card bc-black-call-to-action bc-mb-4 bc-text-center">    
+    <div class="contentIcono">
+        <em class="bc-icon bc-md bc-toggle-button">            
+                finantial-growth-indicator
+        </em>
+    </div>
+    <div class="contentBody bc-d-block">
+                Activos       
+                Bienes, derechos y otros recursos que posee una empresa.
+    </div>
+</div>
+
+
+<div class="bc-col-9 bc-col-sm-6 bc-col-lg-3 bc-col-xl-2 bc-mobile-card bc-black-call-to-action bc-mb-4 bc-text-center">    
+    <div class="contentIcono">
+        <em class="bc-icon bc-md bc-toggle-button">            
+                data
+        </em>
+    </div>
+    <div class="contentBody bc-d-block">
+                Pasivos       
+                Deudas y obligaciones de la empresa.
+    </div>
+</div>
+
+
+<div class="bc-col-9 bc-col-sm-6 bc-col-lg-3 bc-col-xl-2 bc-mobile-card bc-black-call-to-action bc-mb-4 bc-text-center">    
+    <div class="contentIcono">
+        <em class="bc-icon bc-md bc-toggle-button">            
+                coin
+        </em>
+    </div>
+    <div class="contentBody bc-d-block">
+                Patrimonio       
+                Aportes de los propietarios modificada por los resultados de operación de la empresa.
+    </div>
+</div>
+
+
+<div class="bc-col-9 bc-col-sm-6 bc-col-lg-3 bc-col-xl-2 bc-mobile-card bc-black-call-to-action bc-mb-4 bc-text-center">    
+    <div class="contentIcono">
+        <em class="bc-icon bc-md bc-toggle-button">            
+                analytics
+        </em>
+    </div>
+    <div class="contentBody bc-d-block">
+                Ingresos y costos        
+                Corresponden a los cambios en los activos que son resultado de la operación de la empresa.
+    </div>
+</div>
+</div>
+
+    </div>
+</section>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU91O1"><span id="Z7_OHHGG4G0PGD540QNG7BAFU91O1"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU91O1" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU91O1</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+<style>
+ 
+
+section.sectionPasoAPaso div#contenidoCard div.contendorCardsSwipper div.swiper-wrapper {
+    height: auto;
+    justify-content: normal;
+}
+
+section.sectionPasoAPaso div#contenidoCard div.contendorCardsSwipper.jj-paso-paso-locked div.swiper-wrapper {
+    justify-content: center;
+}
+
+section.sectionPasoAPaso
+  div#contenidoCard
+  div.contendorCardsSwipper
+  div.cardHorizontalBefore {
+  display: none;
+}
+
+section.sectionPasoAPaso
+  div#contenidoCard
+  div.contendorCardsSwipper
+  div.cardVerticalBefore {
+    display: none;
+}
+</style>
+<section class="sectionPasoAPaso bc-col-12" id="sectionswiperPasoPaso" style="background: #00C389;">
+    
+    <div class="contenedorTitulo bc-flex bc-justify-content-center">
+        <h2 style="color:#000 ;" class="tituloModulo">Paso a paso</h2>
+    </div>
+    
+    <div id="contenidoCard" class="bc-flex bc-justify-content-center">
+        <div class="contendorCardsSwipper swiperPasoPaso swiper-container-horizontal jj-paso-paso-locked">
+            <div class="bc-flex swiper-wrapper swiper-item-envelope" style="transform: translate3d(0px, 0px, 0px);">
+                
+                    <div class="cardVerticalBefore"></div>
+                
+                
+                
+                
+    
+    
+        <div class="cardVertical swiper-slide swiper-slide-active" style="background-color: #FFF;">
+            <div class="pasoCard bc-flex bc-justify-content-center bc-align-items-center">
+                <h5>Paso 1</h5>
+            </div>  
+            <div>
+                <div class="imagenCard bc-flex bc-justify-content-center bc-padding-top-3">
+                    <img src="/wcm/connect/www.bancolombia.com-26918/5d2eb49c-393a-4afc-8712-19a510e0e1bc/PASOS-2.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-5d2eb49c-393a-4afc-8712-19a510e0e1bc-o4VQ2f9" alt="" width="147" height="147">
+                </div>
+                <div class="tituloCard bc-flex bc-justify-content-center bc-padding-top-2 bc-padding-bottom-1">
+                    <h4>Descarga gratis</h4>
+                </div>
+                <div class="textoCard bc-flex bc-justify-content-center bc-padding-right-2 bc-padding-left-2">
+                    
+                    <span>
+                        Formatos contables en Excel sin ningún costo.
+                    </span> 
+                    
+                    
+                </div>
+                
+                    <div class="linkCard bc-flex bc-justify-content-center bc-align-items-center">
+                        
+                            <a href="/wcm/connect/1a7f3e47-71da-4fe3-917e-db3fb04d181d/pag+formatos+contables.zip?MOD=AJPERES">Descargar herramienta</a>
+                            <em class="bc-icon bc-sm bc-toggle-button bc-margin-left-1"></em>
+                        
+
+                        
+                    </div>
+                
+            </div>
+        </div>
+    
+
+
+    
+    
+        <div class="cardVertical swiper-slide swiper-slide-next" style="background-color: #FFF;">
+            <div class="pasoCard bc-flex bc-justify-content-center bc-align-items-center">
+                <h5>Paso 2</h5>
+            </div>  
+            <div>
+                <div class="imagenCard bc-flex bc-justify-content-center bc-padding-top-3">
+                    <img src="/wcm/connect/www.bancolombia.com-26918/c233d683-c488-42a4-a0d4-6ea093b8a0cf/PASOS-1.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-c233d683-c488-42a4-a0d4-6ea093b8a0cf-o07f.ov" alt="" width="147" height="147">
+                </div>
+                <div class="tituloCard bc-flex bc-justify-content-center bc-padding-top-2 bc-padding-bottom-1">
+                    <h4>Abre el archivo </h4>
+                </div>
+                <div class="textoCard bc-flex bc-justify-content-center bc-padding-right-2 bc-padding-left-2">
+                    
+                    <span>
+                        En caso de haber descargado el zip, descomprime el archivo. Una vez tengas los documentos, usa excel para abrir los formatos. 
+                    </span> 
+                    
+                    
+                </div>
+                
+            </div>
+        </div>
+    
+
+
+    
+    
+        <div class="cardVertical swiper-slide" style="background-color: #FFF;">
+            <div class="pasoCard bc-flex bc-justify-content-center bc-align-items-center">
+                <h5>Paso 3</h5>
+            </div>  
+            <div>
+                <div class="imagenCard bc-flex bc-justify-content-center bc-padding-top-3">
+                    <img src="/wcm/connect/www.bancolombia.com-26918/22f0427f-18f5-4ddc-bd79-23ed7f04e372/PASOS.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-22f0427f-18f5-4ddc-bd79-23ed7f04e372-o07fZ.8" alt="" width="147" height="147">
+                </div>
+                <div class="tituloCard bc-flex bc-justify-content-center bc-padding-top-2 bc-padding-bottom-1">
+                    <h4>Habilita la edición</h4>
+                </div>
+                <div class="textoCard bc-flex bc-justify-content-center bc-padding-right-2 bc-padding-left-2">
+                    
+                    <span>
+                        Para que puedas usar la herramienta debes habilitar el documento. 
+También encontrarás acciones sugeridas para mejorar el flujo de caja y una hoja con conceptos y fórmulas.
+                    </span> 
+                    
+                    
+                </div>
+                
+            </div>
+        </div>
+    
+
+
+    
+    
+        <div class="cardVertical swiper-slide" style="background-color: #FFF;">
+            <div class="pasoCard bc-flex bc-justify-content-center bc-align-items-center">
+                <h5>Paso 4</h5>
+            </div>  
+            <div>
+                <div class="imagenCard bc-flex bc-justify-content-center bc-padding-top-3">
+                    <img src="/wcm/connect/www.bancolombia.com-26918/22fd9cba-1df7-4dd0-98c3-270ac623cad7/PASOS-3.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-22fd9cba-1df7-4dd0-98c3-270ac623cad7-o0uUBBg" alt="" width="147" height="147">
+                </div>
+                <div class="tituloCard bc-flex bc-justify-content-center bc-padding-top-2 bc-padding-bottom-1">
+                    <h4>Diligencia el archivo</h4>
+                </div>
+                <div class="textoCard bc-flex bc-justify-content-center bc-padding-right-2 bc-padding-left-2">
+                    
+                    <span>
+                        De acuerdo con las instrucciones que encontrarás en el archivo, diligencia lo que se indica. 
+Si tienes alguna duda, consulta la hoja de conceptos y fórmulas. ​
+                    </span> 
+                    
+                    
+                </div>
+                
+            </div>
+        </div>
+    
+
+</div>
+<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
+
+
+</section>
+<style>
+.button-next{
+background:#fdda24;
+}
+.button-prev{
+background:#fdda24;
+}
+</style>
+
+
+<script defer=""> 
+var jjPasoAPasoSwiper = new Swiper('.swiperPasoPaso', {
+    effect: 'slide',
+watchOverflow: true,
+    slidesPerView: 'auto',
+    noSwiping: true,
+    allowSlidePrev: true,
+    allowSlideNext: true,
+    initialSlide: 0,
+    loop: false,
+    speed: 600,
+    autoplay: false,
+    keyboard: false,
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev'
+    }
+} );
+
+document.querySelector('.swiperPasoPaso').classList.toggle('jj-paso-paso-locked', this.isLocked);
+
+jjPasoAPasoSwiper.on('resize', function () {
+  document.querySelector('.swiperPasoPaso').classList.toggle('jj-paso-paso-locked', this.isLocked);
+
+});
+</script>
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PO2AF0QF52C27SQ4L2"><span id="Z7_OHHGG4G0PO2AF0QF52C27SQ4L2"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PO2AF0QF52C27SQ4L2" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PO2AF0QF52C27SQ4L2</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+<section id="l_acordeon_info_documentos" class="bc-py-4" style="background-color: transparent;
+color: #2C2A29;">
+
+ 
+
+<div class=" bc-container">
+        <div id="divAcordeon" class="bc-pt-4 bc-mb-3">
+            <div class="bc-bg-white bc-accordions-group bc-no-gutters" tabindex="undefined" role="group">
+                
+
+
+<div class="bc-accordion bc-accordion-minimal">
+    
+    
+        <div onclick="l_Acordeon_Contenido_Documento_ShowContent(this)" class="bc-accordion-header">
+            <div class="bc-margin-left-2 bc-accordion-text-container">
+                <h6 class="bc-accordion-title bc-font-weight-bold">
+                   <strong> Documentos</strong> 
+                </h6>
+            </div>
+            <div class="bc-accordion-header-right" style="margin-right: 10px;">
+                <em class="bc-icon bc-sm bc-toggle-button" onclick="event.stopPropagation()" style="pointer-events: none;width:24px;color: #2C2A29 !important;" tabindex="0" role="heading" aria-level="1">arrow2-down</em>
+            </div>
+        </div>
+        <div class="bc-accordion-content bc-col-12  bc-flex bc-direction-column" style="overflow-y: auto;">
+
+            
+            <div class="bc-flex bc-direction-column bc-pb-4">
+                <div class="bc-col-12">
+                     <div class="bc-col-lg-4 bc-mb-2">
+     <div class="bc-flex bc-align-items-center bc-documents-list">
+         <i class="bc-icon bc-st">ico-document</i>
+         <a href="/wcm/connect/www.bancolombia.com-26918/9e4ee840-e724-4925-90e9-8cbfbc040801/Plantilla_Proyeccio%CC%81n_Negocio.xlsx?MOD=AJPERES&amp;CVID=o05KoPx" target="_blank">
+             Plantilla proyección
+         </a>
+     </div>
+     
+ </div> <div class="bc-col-lg-4 bc-mb-2">
+     <div class="bc-flex bc-align-items-center bc-documents-list">
+         <i class="bc-icon bc-st">ico-document</i>
+         <a href="/wcm/connect/www.bancolombia.com-26918/e8bc334f-5476-419f-9e6d-5117107c9ab6/Formatos_Basicos_Contables_Negocio.xlsm?MOD=AJPERES&amp;CVID=o4VSd-3" target="_blank">
+             Formato básico contable
+         </a>
+     </div>
+     
+ </div>
+                </div>
+                
+                
+                </div>
+            </div>
+        </div>
+        
+
+
+<div class="bc-accordion bc-accordion-minimal">
+    
+    
+        <div onclick="l_Acordeon_Contenido_Documento_ShowContent(this)" class="bc-accordion-header">
+            <div class="bc-margin-left-2 bc-accordion-text-container">
+                <h6 class="bc-accordion-title bc-font-weight-bold">
+                   <strong> Información legal</strong> 
+                </h6>
+            </div>
+            <div class="bc-accordion-header-right" style="margin-right: 10px;">
+                <em class="bc-icon bc-sm bc-toggle-button" onclick="event.stopPropagation()" style="pointer-events: none;width:24px;color: #2C2A29 !important;" tabindex="0" role="heading" aria-level="1">arrow2-down</em>
+            </div>
+        </div>
+        <div class="bc-accordion-content bc-col-12  bc-flex bc-direction-column" style="overflow-y: auto;">
+
+            
+                
+                <div class="bc-flex bc-direction-column bc-pb-5">
+
+                        
+                    <div class="bc-col-12 bc-d-block bc-d-lg-flex bc-align-items-center bc-justify-content-center bc-custom-info">
+
+                 
+ <span style="padding:0px;">
+      
+                            <p>
+                                </p><p>Bancolombia S.A. Pone a disposición la presente herramienta, la cual tiene fines informativos y no compromete oferta o promesa de contratar. </p>
+<p> <br></p>
+<p>El resultado no comprende una certificación o recomendación comercial, contable, tributaria o legal. </p>
+<p> <br></p>
+<p>La herramienta es indicativa y está destinada a proporcionar información y estimaciones de carácter general basadas en la información proporcionada. </p>
+<p> <br></p>
+<p>La herramienta es propiedad de Bancolombia S.A., no se permite la reproducción, venta, publicación, modificación, difusión o explotación comercial de la herramienta o la información proporcionada por la misma.</p>
+                            <p></p>
+                        </span>
+                    </div>
+                    
+
+                    
+
+                    
+                </div>
+            </div>
+        </div>
+        
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="/wcm/connect/www.bancolombia.com-26918/0d816cb3-0e27-44da-9b9c-5affc6f76087/l_acordeon_info_documentos.min.js?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-0d816cb3-0e27-44da-9b9c-5affc6f76087-nWY0s8P "></script>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0P8M1B06G8N1R3FJNB7"><span id="Z7_OHHGG4G0P8M1B06G8N1R3FJNB7"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0P8M1B06G8N1R3FJNB7" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0P8M1B06G8N1R3FJNB7</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <section class="wcmbc-s-soluciones" style="
+    background-color: #F7F7F7;
+    color: #2C2A29;
+">
+    <div>
+        
+
+        
+        <h4>Otras herramientas</h4>
+        
+        
+        <div class="items">
+
+
+
+
+<div style="
+    background-color: #FFF;
+    color: #2C2A29;
+">
+    <figure><img src="/wcm/connect/www.bancolombia.com-26918/c9a4f1b2-f76f-4792-a3fa-8736ebca1aa8/calle_salida_DESK-7.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-c9a4f1b2-f76f-4792-a3fa-8736ebca1aa8-nWRBK5p" alt="" width="152" height="152"></figure>
+    <div>
+         
+        <h5>Flujo de caja y escenarios</h5>
+        <p>Calcula el flujo de caja actual de tu negocio y proyecta nuevos escenarios. Descarga los resultados para hacer análisis y tomar mejores decisiones.</p>
+        <a href="/negocios/herramientas/flujo-de-caja">Conocer más</a><em class="bc-icon">arrow-right</em>
+        
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+<div style="
+    background-color: #FFF;
+    color: #2C2A29;
+">
+    <figure><img src="/wcm/connect/www.bancolombia.com-26918/71658f44-a3cd-4614-85ea-aa752ad6f886/calle_salida_DESK-6.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P864E0Q30449MS3000-71658f44-a3cd-4614-85ea-aa752ad6f886-nWRBUip" alt="" width="152" height="152"></figure>
+    <div>
+         
+        <h5>Indicadores financieros y datos relevantes del sector</h5>
+        <p>Conoce el comportamiento de los principales indicadores financieros del sector de tu negocio. Encuentra datos de reglamentación, factores claves, análisis de riesgo y más.</p>
+        <a href="/negocios/herramientas/indicadores-financieros-sectores">Conocer más</a><em class="bc-icon">arrow-right</em>
+        
+    </div>
+</div>
+
+
+
+
+        </div>
+
+    </div>
+</section>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0PGD540QNG7BAFU96A0"><span id="Z7_OHHGG4G0PGD540QNG7BAFU96A0"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PGD540QNG7BAFU96A0" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PGD540QNG7BAFU96A0</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+
+<footer style="background-color:#2C2A29">      
+                  <div class="cajas">
+            <div class="caja-25">
+                <h4 id="T-Caja" class="titulo-caja" onclick="click_toggle(this.id)">Comunícate con nosotros
+                    <img src="/wcm/connect/a0335436-7f30-40a2-a46c-6d71dddef81c/flecha-abajo-blanca.png?MOD=AJPERES" class="flecha-abajo-footer">
+                </h4>
+                <div class="enlaces box-closed">
+                    <a href="/wps/portal/empresas/contactanos/" class="enlaces-caja">Contáctanos</a>
+                    <a href="/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/" class="enlaces-caja">Trabaja con nosotros</a>
+                    <a href="/wps/portal/about-us/" class="enlaces-caja">About Us</a>
+                </div>
+            </div>
+
+            <div class="caja-25">
+                <h4 id="T-Caja2" class="titulo-caja" onclick="click_toggle(this.id)">Accesos rápidos<img src="/wcm/connect/a0335436-7f30-40a2-a46c-6d71dddef81c/flecha-abajo-blanca.png?MOD=AJPERES" class="flecha-abajo-footer"></h4>
+                <div class="enlaces box-closed">
+                    <a href="/wps/portal/empresas/capital-inteligente/investigaciones-economicas/" class="enlaces-caja">Investigaciones económicas</a>
+                    <a href="/wps/portal/acerca-de/glosario/" class="enlaces-caja">Glosario</a>
+                    <a href="/wps/portal/acerca-de/informacion-corporativa/sostenibilidad/" class="enlaces-caja">Sostenibilidad</a>
+                    <a href="/wps/portal/empresas/tarifario" class="enlaces-caja">Tarifario</a>
+                    <a href="/wps/portal/acerca-de/mapa-del-sitio" class="enlaces-caja">Mapa del sitio</a>
+                    <a href="/wps/portal/empresas/transacciones/" class="enlaces-caja">Transacciones</a>
+                    <a href="/wps/portal/empresas/productos-servicios/cash-management/pagos/impuestos/calendario-tributario/" class="enlaces-caja">Calendario Tributario </a>
+                </div>
+            </div>
+
+            <div class="caja-25">
+                <h4 id="T-Caja3" class="titulo-caja" onclick="click_toggle(this.id)">Legales <img src="/wcm/connect/a0335436-7f30-40a2-a46c-6d71dddef81c/flecha-abajo-blanca.png?MOD=AJPERES" class="flecha-abajo-footer">
+                </h4>
+                <div class="enlaces box-closed">
+                    <a href="/wps/portal/empresas/documentos-legales/" class="enlaces-caja">Documentos Legales</a>
+                    <a href="/wps/portal/empresas/condiciones-de-uso/" class="enlaces-caja">Condiciones de uso</a>
+                    <a href="/wps/portal/empresas/productos-servicios/seguros/licitacion-seguros/" title="" target="" class="enlaces-caja">Proceso licitatorio seguros 2021 - 2023</a>
+                    <a href="/wps/portal/empresas/consumidor-financiero/" title="" target="" class="enlaces-caja">Consumidor
+                        Financiero </a>
+                </div>
+            </div>
+
+            <div class="caja-25">
+                <h4 class="titulo-caja">Síguenos en nuestras redes sociales</h4>
+                <div class="social">
+                    <a href="https://www.facebook.com/bancolombia" class="enlaces-social"><img src="/wcm/connect/5c0541b5-7d32-4c8f-bd89-d2075d11fc51/facebook%2B1.svg?MOD=AJPERES"></a>
+                    <a href="https://twitter.com/Bancolombia" class="enlaces-social"><img src="/wcm/connect/f4ebb481-cc53-4c7d-9cfb-d307e489cdb4/twitter%2B1.svg?MOD=AJPERES"></a>
+                    <a href="https://instagram.com/bancolombia/" class="enlaces-social"><img src="/wcm/connect/a650df53-16a9-41cf-891a-b39b6a93dcff/instagram-sketched%2B1.svg?MOD=AJPERES"></a>
+                    <a href="https://www.youtube.com/channel/UCsvQ-hst7CZGaMtHcDe5geQ" class="enlaces-social"><img src="/wcm/connect/21f16d0d-5169-4f73-8815-dc23d5b28232/youtube%2B1.svg?MOD=AJPERES"></a>
+                    <a href="https://www.linkedin.com/company/22690" class="enlaces-social"><img src="/wcm/connect/84b4d60d-5985-4b81-aa53-9cc497c5b8f5/linkedin%2B1.svg?MOD=AJPERES"></a>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="sub-footer">
+            <div class="seccion-interior">
+                <a href="#" class="logo-v"><img src="/wcm/connect/df658bc3-c4f1-4291-b480-86a6f9e4cae3/Group%2B4.svg?MOD=AJPERES"></a>
+                <a class="copyright">Copyright © 2021 Grupo Bancolombia. Productos y servicios de Banca, Fiducia, Leasing, Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las entidades del exterior en Panamá, Cayman, Puerto Rico.<br> Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o superior.<br> Utilizamos cookies propias y de terceros para mejorar nuestro servicio, monitorear información estadística y presentarte contenidos y publicidad relacionados con tus preferencias.</a>
+            </div>
+        </div>
+</footer>
+
+<style>@media(max-width: 701px){footer .seccion-interior{margin-top:0!important;margin-bottom:0!important;}}</style>
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div></div></div>
+<div class="wpthemeClear"></div>
+
+            </div>
+
+        </div>
+
+    </div><iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://us.creativecdn.com/tags?type=iframe&amp;id=pr_jhGcnXd71YJghz9Pbt7Y&amp;ncm=1&amp;id=pr_jhGcnXd71YJghz9Pbt7Y_lid_PW2RbQH9gMjByU2rFOSV&amp;su=https%3A%2F%2Fwww.bancolombia.com%2Fnegocios%2Fherramientas%2Fformatos-contables-empresas&amp;sr=https%3A%2F%2Fwww.bancolombia.com%2F&amp;ts=1655497343598"></iframe><script type="text/javascript" id="">!function(){var a=window.analytics=window.analytics||[];if(!a.initialize)if(a.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{a.invoked=!0;a.methods="trackSubmit trackClick trackLink trackForm pageview identify reset group track ready alias debug page once off on addSourceMiddleware addIntegrationMiddleware setAnonymousId addDestinationMiddleware".split(" ");a.factory=function(b){return function(){var c=Array.prototype.slice.call(arguments);c.unshift(b);
+a.push(c);return a}};for(var e=0;e<a.methods.length;e++){var f=a.methods[e];a[f]=a.factory(f)}a.load=function(b,c){var d=document.createElement("script");d.type="text/javascript";d.async=!0;d.src="https://cdn.segment.com/analytics.js/v1/"+b+"/analytics.min.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(d,b);a._loadOptions=c};a._writeKey="MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA";a.SNIPPET_VERSION="4.15.3";a.load("MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA")}}();</script>
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:373418,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script><link rel="alternate" href="https://www.bancolombia.com/negocios/herramientas/formatos-contables-empresas" hreflang="es-co">
+<script type="text/javascript" id="">var userId=google_tag_manager["GTM-W95WRK"].macro(28)||null;window.hj("identify",userId,{identify:userId});</script><script type="text/javascript" id="cat-snippet">(function(a,e,f,g,b,c,d){a.ContentAnalyticsToolObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=+new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://scatec.io/t/app.js?id\x3d8bd5285d-42d2-4028-92b6-f7e9538e2984","cat");cat("create","8bd5285d-42d2-4028-92b6-f7e9538e2984");cat("send","pageview");</script><iframe id="_hjSafeContext_23495585" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
+
+    <!--end main content-->
+
+
+
+    <!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+
+        This is located here instead of the head section to improve client performance. -->
+
+    <div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" tabindex="-1" aria-labelledby="wpthemeComplementaryContentText">
+
+        <span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+
+        <script type="text/javascript" src="/contenthandler/!ut/p/digest!4IelbDzT9hU3FNXN68iz1A/mashup/ra:collection?themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1655412491711&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"custom.portal.theme.NegociosTheme","themeRootURI":"/contenthandler/!ut/p/digest!4IelbDzT9hU3FNXN68iz1A/dav/fs-type1/themes/NegociosTheme","themeWebAppBaseURI":"/defaultTheme85/themes/html/dynamicSpots","themeWebDAVBaseURI":"dav:fs-type1/themes/NegociosTheme/","modulesWebAppBaseURI":"/themeModules","commonResourcesRootURI":"/contenthandler/!ut/p/digest!4IelbDzT9hU3FNXN68iz1A/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Formatos Básico Contables para Empresas","currentContentNodeOID":"Z6_OHHGG4G0PGD540QNG7BAFU96S5","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":["system/WebContentCategory.json,label:shelf_socialCategory"],"styleSources":[],"layoutSources":["system/BootstrapLayouts.json","dav:fs-type1/system/layouts.json"]},"portalConfig":{"locale":"es","portalURI":"","contentHandlerURI":"/contenthandler/!ut/p/digest!a3nTVdrehm-zsMMFRtTzVA/","pocURI":"/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":true,"canImpersonate":false,"themeRootURI":"/defaultTheme85/themes/html/dynamicSpots","parentPageID":"Z6_OHHGG4G0POIG00Q706UEHRJ614","currentPageOID":"Z6_OHHGG4G0PGD540QNG7BAFU96S5","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_OHHGG4G0PGD540QNG7BAFU96S5&#034;&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_OHHGG4G0PGD540QNG7BAFU96S5&#034;/&gt;&lt;mapping src=&#034;Z6_OHHGG4G0PGD540QNG7BAFU96S5&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_OHHGG4G0POIG00Q706UEHRJ614&#034;/&gt;&lt;node id=&#034;Z6_2G9I1K41N8AD50QDBM0JIMJDS2&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dynamicContentSpots_85":"0.0","wp_dialog_draggable":"0.0","bcn_modulos_trasversales":"0.0","wp_hiddenpages":"0.0","wp_simple_contextmenu_ext":"0.0","wp_simple_contextmenu_js":"0.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_portlet_css":"0.0","wp_theme_utils":"0.0","bcn_herramientas":"0.0","wp_toolbar_menuactions":"0.0","wp_toolbar_host_view":"0.0","wp_hiddencontent":"0.0","wp_portal":"0.0","photon.dom":"1.0","wp_photon_dom":"0.0","wp_toolbar_sitepreview":"0.0","highContrast":"1.0","wp_dynBancoTransversal":"0.0","wp_client_tracing":"0.0","modules":"0.1","hasBaseURL":"true","bcn_reset_wcm":"0.0","wp_state_page_modes":"0.0","st_jquery":"0.0","wp_toolbar_common_actionbar":"0.0","wp_client_main":"0.0","wp_toolbar_viewframe_validator":"0.0","wp_high_contrast":"0.0","wp_toolbar_actionbar":"0.0","simple-contextmenu":"1.1","wp_dialog_css":"0.0","wp_client_logging":"0.0","wp_state_page":"0.0","wp_toolbar_common":"0.0","wp_theme_portal_edit_85":"0.0","wp_toolbar_projectmenu":"0.0","wp_dialog_main":"0.0","wp_simple_contextmenu_main":"0.0","bcn_modulos_mercables":"0.0","wp_toolbar_moremenu":"0.0","wp_custom_page_style":"0.0","wp_toolbar_contextmenu":"0.0","wp_searchbar":"0.0","wp_client_ext":"0.0","wp_simple_contextmenu_css":"0.0","wp_toolbar85":"0.0","wp_modules":"0.0","toolbar":"8.5","wp_dialog_util":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_a11y":"0.0","wp_theme_portal_85":"0.0","wp_simple_contextmenu_templates":"0.0","wp_toolbar_logo":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!3JKaotSk_gMd0aUfF0xN-w/mashup/ra:collection?themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1651119536227&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_high_contrast__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=bcn_modulos_mercables__0.0%3Aconfig_js&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=st_jquery__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=bcn_herramientas__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/contenthandler/!ut/p/digest!3JKaotSk_gMd0aUfF0xN-w/mashup/ra:collection?themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1655412492000&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_skin_cam__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;deferred=true" style="display:none"></a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/contenthandler/!ut/p/digest!iwVoPURNwpvHk658zdx2vg/mashup/ra:collection?themeID=ZJ_OHHGG4G0PG3U30QBUUMBGA9M01&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;entry=wp_skin_cam__0.0%3Aconfig_markup&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"></a></div>
+
+
+
+
+
+
+<img src="https://t.co/i/adsct?bci=3&amp;eci=2&amp;event_id=f92b65fc-4170-4535-b681-34b2271a2a12&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=b47f8740-581c-47ea-a3b5-1ec739580fe3&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fnegocios%2Fherramientas%2Fformatos-contables-empresas&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=nvl9j&amp;type=javascript&amp;version=2.3.21" height="1" width="1" style="display: none;"><img src="https://analytics.twitter.com/i/adsct?bci=3&amp;eci=2&amp;event_id=f92b65fc-4170-4535-b681-34b2271a2a12&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=b47f8740-581c-47ea-a3b5-1ec739580fe3&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fnegocios%2Fherramientas%2Fformatos-contables-empresas&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=nvl9j&amp;type=javascript&amp;version=2.3.21" height="1" width="1" style="display: none;"><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-63c3a81830bf549dafe40b369003f751.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>

@@ -1,0 +1,2167 @@
+<html lang="es" class=" cssanimations"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google" content="notranslate">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/f05de49d/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script type="text/javascript" async="" src="https://www.youtube.com/iframe_api"></script><script async="" src="https://scatec.io/t/app.js?id=8bd5285d-42d2-4028-92b6-f7e9538e2984"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TPV2TCF&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-4ES4HNJXCC&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4MKJHMZRE&amp;l=dataLayer&amp;cx=c"></script><script gtm="GTM-W95WRK" type="text/javascript" async="" src="https://www.googleoptimize.com/optimize.js?id=OPT-5GNTPJC"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA/analytics.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript" src="/negocios/ruxitagentjs_ICA27Vfgjqrux_10241220422021336.js" data-dtconfig="app=a45c5ecd168834f6|rcdec=1209600000|featureHash=ICA27Vfgjqrux|vcv=2|rdnt=1|uxrgce=1|bp=3|srmcrv=10|cuc=ok0ooszr|mel=100000|dpvc=1|ssv=4|lastModification=1655413521535|dtVersion=10241220422021336|srmcrl=1|tp=500,50,0,1|uxdcw=1500|agentUri=/negocios/ruxitagentjs_ICA27Vfgjqrux_10241220422021336.js|reportUrl=/negocios/rb_bf58324jks|rid=RID_1606378526|rpid=447236032|domain=bancolombia.com"></script><link href="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/images/favicon/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" href="/contenthandler/!ut/p/digest!6dXoD7BccllBSDOqUzhETg/sp/mashup:ra:collection?soffset=0&amp;eoffset=17&amp;themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1635173196000&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=bcn_modulos_header__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=footer__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=css_wcm_custom__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/contenthandler/!ut/p/digest!6dXoD7BccllBSDOqUzhETg/sp/mashup:ra:collection?soffset=0&amp;eoffset=17&amp;themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1629755008000&amp;entry=wp_one_ui_303__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_303__0.0%3Ahead_css&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_social_rendering_85__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript">var djConfig={"baseUrl":"/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/themeModules/js/com","ibm":"/themeModules/js/ibm","pagebuilder":"/themeModules/modules/pagebuilder/js","portalclient":"/themeModules/modules/portalclient/js","asa":"/themeModules/modules/asa/js","contentmapping":"/themeModules/modules/contentmapping/js","federation":"/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_2G9I1K41N03720Q6V7HAGV34L5"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41N03720Q6V7HAGV34L5","Z6_2G9I1K41N03720Q6V7HAGV34L5","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41N8AD50QDBM0JIMJDS2","Z6_OHHGG4G0POIG00Q706UEHRJ614"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_2G9I1K41N8AD50QDBM0JIMJDS2','Z6_OHHGG4G0POIG00Q706UEHRJ614','Z6_2G9I1K41N03720Q6V7HAGV34L5'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='';wpModules.state.page.protectedPath='/myportal';wpModules.state.page.publicPath='';})();</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!6dXoD7BccllBSDOqUzhETg/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1629922610000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=footer__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/contenthandler/!ut/p/digest!3JKaotSk_gMd0aUfF0xN-w/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1536781742000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_social_rendering_85__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js&amp;deferred=true"><link id="z6AZ0V7Pis9" rel="alternate" href="https://www.bancolombia.com/negocios/herramientas/convertidor-de-tasas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9DIzNjQwCzcLMPRzdw4xNfEz1w8EKDHAARwP9KGL041EQhd_4cP0osBJ_Dw93dxN3gwB_T3cDg0BzA7NQV48gLzNDE6gCuBUWji6mBoEuTr4GXp6-Xi7BRlAFeCwpyA2NMMj0VAQAo6Y6Gg!!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("z6AZ0V7Pis9");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><link rel="alternate" id="head_markup_deferred" href="/contenthandler/!ut/p/digest!g8ei0j9pAOfcD5cT87v1hw/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_one_ui_303__0.0%3Ahead_markup&amp;entry=wp_layout_windowstates__0.0%3Ahead_markup&amp;entry=wp_analytics_aggregator__0.0%3Ahead_markup&amp;deferred=true"><base href="https://www.bancolombia.com/negocios/herramientas/convertidor-de-tasas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9DIzNjQwCzcLMPRzdw4xNfEz1w8EKDHAARwP9KGL041EQhd_4cP0osBJ_Dw93dxN3gwB_T3cDg0BzA7NQV48gLzNDE6gCuBUWji6mBoEuTr4GXp6-Xi7BRlAFeCwpyA2NMMj0VAQAo6Y6Gg!!/">
+<title>Convertidor de Tasas</title>
+
+<meta content="Aquí puede convertir las tasas para tomar buenas decisiones financieras en su empresa. Descargue convertidor de tasas en excel aquí" name="description"><meta content="Aquí puede convertir las tasas para tomar buenas decisiones financieras en su empresa. Descargue convertidor de tasas en excel aquí" property="og:description"><meta content="index, follow" name="robots">
+<link rel="alternate" href="https://www.bancolombia.com/negocios/herramientas/convertidor-de-tasas" hreflang="es-CO">
+
+
+	        <link rel="canonical" href="https://www.bancolombia.com/negocios/herramientas/convertidor-de-tasas">
+	    
+<meta property="og:title" content="Convertidor de Tasas">
+<meta property="og:site_name" content="Bancolombia">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.bancolombia.com/negocios/herramientas/convertidor-de-tasas">
+<meta property="og.locale" content="es_CO">
+
+
+
+
+<link href="/contenthandler/!ut/p/digest!3JKaotSk_gMd0aUfF0xN-w/war/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/le-mtagconfig.js"></script>
+<!-- END LivePerson Monitor. -->
+
+<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700,800" rel="stylesheet">
+
+<!-- Styles Generales -->
+<link rel="stylesheet" href="/wcm/connect/fa1badc6-a56a-442c-ab56-17026ce87c5a/bancolombia.css?MOD=AJPERES">
+<link rel="stylesheet" href="/wcm/connect/0c8bcf0b-2bdc-40ab-9f17-0020be85af5e/main-menu.css?MOD=AJPERES">
+<link rel="stylesheet" href="/wcm/connect/466626f0-6f71-45d7-93b4-4d09904859a1/swiper.min.css?MOD=AJPERES">
+<link rel="stylesheet" href="/wcm/connect/8124c23c-d02e-4724-b259-c1c3bfc10de4/vars.css?MOD=AJPERES">
+<link rel="stylesheet" href="/wcm/connect/80a13ea5-f384-431b-8acf-b03f2aaf53e8/component.css?MOD=AJPERES">
+<link rel="stylesheet" href="/wcm/connect/34571e5d-3692-4ea6-8a26-ae7973a1fa52/menu-top.css?MOD=AJPERES">
+<link rel="stylesheet" href="/wcm/connect/f52f3867-a032-4a90-ada6-f7ebfe9b925e/breadcrumbs.css?MOD=AJPERES">
+<link rel="stylesheet" href="/wcm/connect/82f40cb7-8634-4c26-8e7a-131bd2d4e322/footer.css?MOD=AJPERES">
+<link rel="stylesheet" href="/wcm/connect/7e2c8fa3-5ef4-4288-adfb-4604085f38be/modules.css?MOD=AJPERES">
+
+
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/jquery-1.11.2.ui.min.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular.js"></script>
+
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/ui-bootstrap-0.12.0.tpls.min.js"></script>
+  
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/navegacion.js"></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/mobile-detect.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/slide-min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/modules.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/jquery.basictable.min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modules/wow.min.js" defer=""></script>
+
+
+<script type="text/javascript">
+function SVPersonas(){
+    localStorage.setItem("SVPersonas", "Si");
+}
+</script>
+
+<script type="text/javascript">
+function Onclick(){
+       localStorage.setItem("Onclick", 'UserOnclick');
+} 
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+<!-- Anti-flicker snippet (recommended)  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-W95WRK':true});</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-W95WRK');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W95WRK');</script>
+<!-- End Google Tag Manager -->
+
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=29373698"></script><script charset="UTF-8" id="_lpTagScriptId_0" src="https://lptag.liveperson.net/lptag/api/account/29373698/configuration/applications/taglets/.jsonp?v=2.0&amp;df=undefined&amp;b=undefined"></script><script async="" src="https://static.hotjar.com/c/hotjar-373418.js?sv=6"></script><script async="" id="lp-ui-framework" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.19.0.2-release_5467/ui-framework.js?version=10.19.0.2-release_5467" charset="UTF-8"></script><script async="" id="lp-api-messaging" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.19.0.2-release_5467/UMSClientAPI.min.js?version=10.19.0.2-release_5467" charset="UTF-8"></script><script async="" id="lp-api-chat" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.19.0.2-release_5467/lpChatV3.min.js?version=10.19.0.2-release_5467" charset="UTF-8"></script><script async="" id="lp-survey-logic" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.19.0.2-release_5467/surveylogicinstance.min.js?version=10.19.0.2-release_5467" charset="UTF-8"></script><script async="" id="lp-uw-embedded" src="https://lpcdn.lpsnmedia.net/le_unified_window/10.19.0.2-release_5467/desktopEmbedded.js?version=10.19.0.2-release_5467" charset="UTF-8"></script><script async="" src="https://script.hotjar.com/modules.b871a939666125f20d79.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+<body class="toolbar-closed" style="">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<!-- site toolbar -->
+	
+
+  <header id="old-headerMain" class="old-header-main headernegocio">
+        <div class="old-header-top color-white">
+            <div class=" bc-container bc-container-max">
+                <nav class="old-header-top_nav prinheader">
+                    <ul class="old-header-top_menu">
+                        <li class="old-header-top_item" id="linkPersonas">
+                            <a href="/personas" title="" target="" class="old-header-top_link">Personas</a>
+                        </li>
+                        <!-- /header-top_item --><!-- FENIX -->
+                        <li class="old-header-top_item active" id="linkPymes">
+                            <a href="/negocios" title="" target="" class="old-header-top_link">Negocios</a>
+                        </li>
+                        <!-- /header-top_item -->
+                        <li class="old-header-top_item" id="linkEmpresas">
+                            <a href="/wps/portal/empresas" title="" target="" class="old-header-top_link">Empresas</a>
+                        </li>
+                        <!-- /header-top_item -->
+                        <li class="old-header-top_item" id="linkAcercaDe">
+                            <a href="/wps/portal/acerca-de" title="" target="" class="old-header-top_link">Acerca de Nosotros</a>
+                        </li>
+                        <!-- /header-top_item -->
+                        <li class="old-header-top_item has-submenu" id="menu-filiales">
+                            <a class="old-header-top_link" id="linkactive">Negocios Especializados  <em class="bc-icon bc-xs" onclick="cerrarnegocio()">icon-arrow2-down</em></a>
+                            <div class="old-header-top_submenu bg-white color-default" id="negocioespe">
+                                <div class="bc-container">
+                                    <div class="row">
+                                        <em class="bc-icon bc-sm cerrarnego" onclick="cerrarnegocio()">icon-error</em>
+                                        <div class="bc-col-md-4">
+                                            <h3 class="submenu-title">Negocios en Colombia</h3>
+
+                                            <ul class="submenu-cont">
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://bancainversion.grupobancolombia.com" title="" target="" class="submenu-cont_link">Banca de Inversión Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://fiduciaria.grupobancolombia.com" title="" target="" class="submenu-cont_link">Fiduciaria Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://leasing.grupobancolombia.com" title="" target="" class="submenu-cont_link">Leasing Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://renting.grupobancolombia.com" title="" target="" class="submenu-cont_link">Renting Colombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://valores.grupobancolombia.com" title="" target="" class="submenu-cont_link">Valores Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://factoring.grupobancolombia.com" title="" target="" class="submenu-cont_link">Factoring Bancolombia</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://assetmanagement.grupobancolombia.com" title="" target="" class="submenu-cont_link">Asset Management</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://comerciointernacional.grupobancolombia.com" title="" target="" class="submenu-cont_link">Comercio Internacional</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://sufi.grupobancolombia.com" title="" target="" class="submenu-cont_link">Sufi</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="http://www.tuya.com.co" title="" target="" class="submenu-cont_link">Tuya</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                            </ul>
+                                            <!-- /submenu-cont -->
+                                        </div>
+                                        <!-- /col -->
+                                        <div class="bc-col-md-4">
+                                            <h3 class="submenu-title">Entidades en el exterior</h3>
+                                            <ul class="submenu-cont">
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://valoresbanistmo.grupobancolombia.com" title="" target="" class="submenu-cont_link">Valores Banistmo</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://sucursalpanama.grupobancolombia.com" title="" target="" class="submenu-cont_link">Sucursal Panamá</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://panama.grupobancolombia.com" title="" target="" class="submenu-cont_link">Bancolombia Panamá</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://cayman.grupobancolombia.com" title="" target="" class="submenu-cont_link">Bancolombia Cayman</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://puertorico.grupobancolombia.com" title="" target="" class="submenu-cont_link">Bancolombia Puerto Rico</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="https://www.banistmo.com/wps/portal/banistmo/personas" title="" target="" class="submenu-cont_link">Banistmo</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="http://www.bancoagricola.com" title="" target="" class="submenu-cont_link">Banco Agrícola</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                                <li class="submenu-cont_item">
+                                                    <a href="http://www.bam.com.gt" title="" target="" class="submenu-cont_link">BAM (Banco Agromercantil de Guatemala)</a>
+                                                </li>
+                                                <!-- /submenu-cont_item -->
+                                            </ul>
+                                            <!-- /submenu-cont -->
+                                        </div>
+                                        <!-- /col -->
+                                    </div>
+                                </div>
+                                <!-- /container -->
+                            </div>
+                            <!-- /header-top_submenu -->
+                        </li>
+                        <!-- /header-top_item -->
+                        <li class="old-header-top_item">
+                            <a href="/tu360" title="" target="" onclick="changeActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe'); changeDesActive('linkPymes');" class="old-header-top_link">Tu360</a>
+                        </li>
+                    </ul>
+
+                </nav>
+            </div>
+            <!-- /container -->
+        </div>
+        <!-- /header-top -->
+
+        <div class="bc-container bc-container-max">
+            <div class="old-header-main_cont bc-d-flex">
+                <figure class="old-header-main_logo" itemscope="" itemtype="http://schema.org/brand">
+                    <a href="/negocios" title="Negocios" target="">
+                        <img src="/wcm/connect/a67af2d6-c768-4f4f-a33b-fd58074f7ce9/logo-bancolombia-black.svg?MOD=AJPERES" alt="Negocios" itemprop="logo">
+                    </a>
+                </figure>
+
+                <div class="old-header-main_btns bc-d-flex">
+                    <a href="/wps/portal/empresas/necesidades/documentos/" title="" target="" class="u-button u-button--icon shadow-gray solicitudbtn"> Solicitud de documentos  <em class="bc-icon bc-sm">icon-document</em> </a>
+                    <div class="menu-transactions">
+                        <div class="has-submenu">
+                            <a class="menu-transactions_link transacciones" id="old-transaction_link">TRANSACCIONES<em class="bc-icon bc-sm">icon-lock</em> </a>
+                            <div class="menu-transactions_submenu">
+                                <div class="cerrar">
+                                    <a style="cursor: pointer;">Cerrar <span>x</span></a>
+                                </div>
+                                <a href="https://sucursalvirtualpyme.bancolombia.com" target="_blank" title="" class="old-sucursal-virtual">Sucursal Virtual Pymes</a>
+                                <a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" target="_blank" title="" class="ng-binding old-sucursal-virtual" onclick="SVPersonas()">Sucursal Virtual Personas  </a>
+                                <a href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia" target="_blank" title="" class="ng-binding old-sucursal-virtual" onclick="SVEmpresas()">Sucursal Virtual Empresas</a>
+                                <a href="/wps/portal/empresas/necesidades/documentos/" target="_self" class="ng-binding old-sucursal-virtual">Solicitud de documentos</a>
+                                <div class="bc-row">
+                                    <div class="bc-col-12 conocer"><a href="/wps/portal/empresas/transacciones/" class="font-bold">Ver más</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /col -->
+            </div>
+
+            <div>
+                <button id="old-mobile-button-buscar" class="old-mobile-button old-mobile-buscar">                    
+                    <em class="bc-icon bc-sm center-block mobile-navigation_bar" alt="Buscar" onclick="centerblock()">icon-search</em>                 
+                </button>
+            </div>
+
+            <div>
+                <button id="old-mobile-button" class="old-mobile-button">
+                    <em class="bc-icon bc-sm mobile-navigation_bar" onclick="menunegocio()">icon-menu</em>                   
+                </button>
+            </div>
+            <!--- /row -->
+        </div>
+        <section class="old-header-main2">
+            <div class="old-header-top color-white">
+                <div class="bc-container bc-container-max">
+                    <div class="old-header-top_nav">
+                        <div>
+                            <ul class="old-header-top_menu">
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/" class="old-header-top_link">Inicio</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/actualizate/" class="old-header-top_link">Actualízate</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/productos-financieros/" class="old-header-top_link">Productos financieros</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/herramientas/" class="old-header-top_link">Herramientas</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="old-header-top_item">
+                                    <a href="/negocios/beneficios/" class="old-header-top_link">Beneficios</a>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="dropdown old-header-top_item">
+                                    <a class="dropdown-toggle old-header-top_link" data-toggle="dropdown" href="#">Formación<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/negocios/formacion/">Social Selling</a></li>
+                                        <li><a href="/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li>
+                                    </ul>
+                                </li>
+                                <!-- /header-top_item -->
+                                <li class="dropdown old-header-top_item"><a class="dropdown-toggle old-header-top_link" data-toggle="dropdown" href="#">Sectores<span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="/negocios/sectores/agroindustria/">Agroindustria</a></li>
+                                        <li><a href="/negocios/sectores/comercios">Comercios</a></li>
+                                    </ul>
+                                </li>
+                                <li class="old-header-top_item"><a href="/negocios/comercio-internacional" class="old-header-top_link">Comercio Internacional</a></li>
+                                <li class="old-header-top_item"><a href="/tu360/negocios" title="" target="" class="old-header-top_link">Tu360Negocios</a></li>
+
+                                <!-- /header-top_item -->
+
+                            </ul>
+
+                        </div>
+                        <div class="searchHeader hidden-xs hidden-sm visible-md visible-lg">
+                            <em class="bc-icon bc-sm center-block" alt="Buscar" onclick="centerblock()">icon-search</em>
+                        </div>
+                    </div>
+                </div>
+                <!-- /container -->
+            </div>
+            <!-- /header-top -->
+        </section>
+        <!--buscardor-->
+        <div class="searchRwd" id="headerbuscar" style="display: none;">
+            <div class="bc-container">
+                <div class="row">
+                    <form action="/negocios/buscador">
+                        <div class="bc-col-sm-8 bc-col-xs-8">
+                            <input type="search" placeholder="Busca lo que tú necesitas" name="termino" id="terminoBusqueda2" class="ui-autocomplete-input" autocomplete="off">
+                        </div>
+                        <div class="bc-col-sm-4 col-xs-4">
+                            <div class="row">
+                                <input type="submit" value="Buscar" class="btnPrincipal">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- /container -->
+
+        <div class="old-mobile-navigation" id="old-mobile-navigation">
+            <div class="mobile-navigation_cont">
+                <div class="mobile-navigation_logo">
+                    <figure itemscope="" itemtype="http://schema.org/brand">
+                        <a href="/negocios" title="Negocios" target="">
+                            <img src="/wcm/connect/a67af2d6-c768-4f4f-a33b-fd58074f7ce9/logo-bancolombia-black.svg?MOD=AJPERES" alt="Negocios" itemprop="logo">
+                            <!-- <img src="img/header/logo-bancolombia-black.svg" class="imglogo" alt="Negocios" itemprop="logo" /> -->
+                        </a>
+                    </figure>
+                    <!-- /Figure -->
+                    <div>
+                        <em id="button-close" class="bc-icon bc-sm button-close">icon-error</em>
+                    </div>
+                </div>
+                <div class="mobile-navigation_pane color-default">
+                    <nav class="mobile-navigation_nav">
+
+                        <ul class="mobile-navigation_menu">
+                            <li class="has-submenu negocioinicio">
+                                <a href="/negocios" class="mobile-navigation_link">Inicio</a>
+                            </li>
+
+                            <li>
+                                <a href="/negocios/actualizate/" class="mobile-navigation_link">Actualizate</a>
+
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/negocios/productos-financieros/" title="" target="" class="mobile-navigation_link">Productos financieros</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/negocios/herramientas/" title="" target="" class="mobile-navigation_link">Herramientas</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/negocios/beneficios/" title="" target="" class="mobile-navigation_link">Beneficios</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li class="has-submenu">
+                                <a href="#" title="" target="" class="mobile-navigation_link">Formación <em class="bc-icon bc-sm iconoright">icon-arrow2-down</em></a>
+                                <ul class="mobile-submenu old-submenu-accordion">
+                            
+                                    <li class="mobile-submenu_item">
+                                        <a href="/negocios/formacion" title="" target="">Social Selling</a>
+                                    </li>
+                                    <li class="mobile-submenu_item">
+                                        <a href="/negocios/comercio-internacional/importar/empezar/incoterms" title="" target="">Incoterms</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li class="has-submenu">
+                                <a href="#" title="" target="" class="mobile-navigation_link">Sectores <em class="bc-icon bc-sm iconoright">icon-arrow2-down</em></a>
+                                <ul class="mobile-submenu old-submenu-accordion">
+                                    <li class="mobile-submenu_item">
+                                        <a href="/negocios/sectores/agroindustria" title="" target="">Agroindustria</a>
+                                    </li>
+                                    <li class="mobile-submenu_item">
+                                        <a href="/negocios/sectores/comercios" title="" target="">Comercios</a>
+                                    </li>
+
+                                </ul>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/negocios/comercio-internacional" title="" target="" class="mobile-navigation_link">Comercio Internacional</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/tu360/negocio" title="" target="" class="mobile-navigation_link">Tu360negocios</a>
+                            </li>
+                            <!-- /mobile-navigation_menu -->
+                            <li>
+                                <a href="/wps/portal/empresas/necesidades/documentos/" title="" target="" class="mobile-navigation_link">Solicitud de documento</a>
+                            </li>
+
+                            <li class="has-submenu">
+                                <a href="#" title="" target="" class="mobile-navigation_link">Transacciones<em class="bc-icon bc-sm iconoright">icon-arrow2-down</em></a>
+                                <ul class="mobile-submenu old-submenu-accordion">
+                                    <li class="mobile-submenu_item">
+                                        <a href="https://sucursalpersonas.transaccionesbancolombia.com/cb/pages/jsp-ns/login-mada.jsp" title="" target=""> Sucursal Virtual Personas </a>
+                                    </li>
+                                    <!-- /mobile-submenu_item -->
+                                    <li class="mobile-submenu_item">
+                                        <a href="https://sucursalempresas.transaccionesbancolombia.com/SVE/control/BoleTransactional.bancolombia" title="" target="">Sucursal Virtual Empresas</a>
+                                    </li>
+                                    <!-- /mobile-submenu_item -->
+                                    <li class="mobile-submenu_item">
+                                        <a href="/wps/portal/empresas/necesidades/documentos/" title="" target="">Solicitud de documentos</a>
+                                    </li>
+                                    <!-- /mobile-submenu_item -->
+                                    <li class="mobile-submenu_item">
+                                        <a onclick="MM_openBrWindow('https://facturanet.todo1.com/default_finalBancolombia.asp?pais=CO&amp;ingreso=si','VentanaUnicaFCN','status=yes,scrollbars=yes,resizable=yes,width=1024,height=768')" title="" target="">Facturanet</a>
+                                    </li>
+                                    <!-- /mobile-submenu_item -->
+                                    <li class="mobile-submenu_item">
+                                        <a href="/personas/solicitud-de-productos" title="" target="">Solicitud de Productos</a>
+                                    </li>
+               
+              
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </nav>
+                    <div class="redesHeader">
+                        <ul class="list_redes">
+                            <li><a href="https://www.facebook.com/bancolombia" title="" target=""><em class="bc-icon bc-sm fab" alt="face">icon-facebook</em></a></li>
+                            <li><a href="https://twitter.com/Bancolombia" title="" target=""><em class="bc-icon bc-sm fab" alt="face">icon-twitter</em></a></li>
+                            <li><a href="https://www.linkedin.com/company/22690" title="" target=""><em class="bc-icon bc-sm fab" alt="face">icon-instagram</em></a></li>
+                            <li><a href="https://instagram.com/bancolombia" title="" target=""><em class="bc-icon bc-sm fab" alt="face">icon-youtube</em></a></li>
+                            <li><a href="https://www.youtube.com/user/GrupoBancolombia" title="" target=""><em class="bc-icon bc-sm fab" alt="face">icon-linkedin</em></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- /mobile-navigation_cont. -->
+        </div>
+    </header><div class="breadcrumbs">
+		
+
+		<div class="row-fluid">
+			<div class="container">
+				<div class="row">
+					<ol itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList" class="breadcrumb col-xs-12 col-sm-10">
+						
+						
+							
+							<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+											<a itemprop="item" href="/negocios"> 
+												<span itemprop="name">Negocios</span>
+												<meta itemprop="position" content="1">
+											</a>									
+									</li>
+						
+							
+							<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+											<a itemprop="item" href="/negocios/herramientas"> 
+												<span itemprop="name">Herramientas</span>
+												<meta itemprop="position" content="2">
+											</a>									
+									</li>
+						
+							
+							<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+											<a itemprop="item" href="/negocios/herramientas/convertidor-de-tasas"> 
+												<span itemprop="name">Conversor Tasas.</span>
+												<meta itemprop="position" content="3">
+											</a>									
+									</li>
+												
+					</ol>					
+				</div>
+			</div>
+		</div>		
+	</div>
+	<div id="main-content">
+		<!-- MAIN CONTENT GOES HERE! -->
+		
+
+ 
+
+
+
+
+
+		
+
+ 
+
+
+
+
+	
+		<div class="component-control id-Z7_OHHGG4G0PGFAF060L4ABG92MF3"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N03720Q6V7HAGV34D4"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+<script type="text/javascript" src="/wcm/connect/www.bancolombia.com-26918/13569b96-c598-44ba-b1a4-d6e91ecde34e/sppreference.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-13569b96-c598-44ba-b1a4-d6e91ecde34e-lMSoqsf&amp;subtype=javascript"></script>
+<script>
+var ns_Z7_2G9I1K41N03720Q6V7HAGV34D4_spHelper=(function() {
+  return {
+	getPreferenceURI : function(){
+ 	 return "/contenthandler/!ut/p/digest!sOkwVK5o3LPuj3IoA2noHQ/portlet/Z7_2G9I1K41N03720Q6V7HAGV34D4@Z6_2G9I1K41N03720Q6V7HAGV34L5/preferences/all";
+	},
+	getPortletPreferences: function (){
+        if(typeof i$ == "undefined") //set error promise
+	    return new ErrorPromise(function (resolve, reject) {
+	        var reason = new Error('Error0001: datos de preferencia no disponibles en este contexto.');
+	        reject(reason);
+	    });
+	 return spInstanceHelper.getPortletPreferences(ns_Z7_2G9I1K41N03720Q6V7HAGV34D4_spHelper.getPreferenceURI());
+	},
+	setPortletPreferences: function (data){
+        if(typeof i$ == "undefined") //set error promise
+	    return new ErrorPromise(function (resolve, reject) {
+	        var reason = new Error('Error0001: datos de preferencia no disponibles en este contexto.');
+	        reject(reason);
+	    });
+	  return spInstanceHelper.setPortletPreferences(ns_Z7_2G9I1K41N03720Q6V7HAGV34D4_spHelper.getPreferenceURI(), data);
+	},
+	userName : "",
+	userId :  "",
+	userCn : "",
+	userSn : "",
+	userLanguage : "",
+	renderingLocale : "es-ES"
+   };
+ })();
+</script>
+
+
+	
+		
+	
+	<style>
+		.boton:hover{ cursor: pointer;}
+	</style>
+	
+                
+  <div style="display:none" data-script-portlet-original-tag="head">
+    <meta charset="UTF-8">
+    <title>Simulador - Bancolombia</title>
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <link type="image/x-icon" rel="shortcut icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/conversor%20tasas?SRV=cmpnt&amp;cmpntname=css%2Fmain.css&amp;source=content&amp;subtype=css&amp;__SPNS__=ns_Z7_2G9I1K41N03720Q6V7HAGV34D4_">
+  </div>
+
+  <div data-script-portlet-original-tag="body" class="active">
+    <section class="banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h1>Conversor de tasas <br>de interés</h1>
+            <p>Aquí podrás convertir las tasas de tal forma que te puedan ser útiles para tomar mejores decisiones financieras.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="slider">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12">
+            <div class="boton-carrucel carousel-servicios">
+              <div class="carrousel item col-md-3 col-sm-6">
+                <div class="thumbnail">
+                  <div class="caption">
+                    <h3>De tasa nominal a tasa efectiva</h3>
+                    <p>Pasa de una tasa que considera solo el capital invertido a una que considera capital más intereses que se van generando.</p>
+                    <div class="boton" id="btntoolUno"><a title="title">Calcular                      </a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="carrousel item col-md-3 col-sm-6">
+                <div class="thumbnail">
+                  <div class="caption">
+                    <h3>De tasa efectiva a tasa nominal</h3>
+                    <p>Pasa de una tasa que considera capital más intereses que se van generando a una tasa que considera solo el capital invertido.</p>
+                    <div class="boton" id="btntoolDos"><a title="title">Calcular                      </a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="carrousel item col-md-3 col-sm-6">
+                <div class="thumbnail">
+                  <div class="caption">
+                    <h3>De tasa efectiva a efectiva (distintas periodicidades)</h3>
+                    <p>Cambia, según tu elección, el periodo de capitalización o liquidación de los intereses.</p>
+                    <div class="boton" id="btntoolTres"><a title="title">Calcular                      </a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="carrousel item col-md-3 col-sm-6">
+                <div class="thumbnail">
+                  <div class="caption">
+                    <h3>De una tasa efectiva en cualquier periodicidad a una tasa efectiva diaria</h3>
+                    <p>Cambia a diario el periodo de capitalización o liquidación de los intereses.  
+</p>
+                    <div class="boton" id="btntoolCuatro"><a title="title">Calcular                      </a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="steps-simulator" id="toolUno">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="data">
+              <h1 class="text-center">De tasa nominal a efectiva</h1>
+              <div class="form">
+                <div class="row">
+                  <div class="col-md-8">
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Ingresa la tasa de interés</h3>
+                        </div>
+                        <label>Debes ingresar un valor sin el %</label>
+                        <input id="interes" type="number" placeholder="$0" onchange="getInteres1()">
+                      </div>
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Periodicidad Deseada</h3>
+                        </div>
+                        <label>Periodicidad</label>
+                        <select onchange="getSelects1()" id="periodicidad-deseada">
+                          <option value="">Selecciona</option>
+                          <option value="1">Anual</option>
+                          <option value="2">Semestral</option>
+                          <option value="3">Cuatrimestral</option>
+                          <option value="4">Trimestral</option>
+                          <option value="6">Bimensual</option>
+                          <option value="12">Mensual</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Ingresa la capitalización</h3>
+                        </div>
+                        <label>Periodicidad</label>
+                        <select onchange="getSelects1()" id="capitalizacion">
+                          <option value="">Selecciona</option>
+                          <option value="1">Anual</option>
+                          <option value="2">Semestral</option>
+                          <option value="3">Cuatrimestral</option>
+                          <option value="4">Trimestral</option>
+                          <option value="6">Bimensual</option>
+                          <option value="12">Mensual</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="result">
+                      <h3 id="respuesta">156.00 %</h3>
+                      <label>es el resultado de acuerdo con los parámetros que ingresaste.  </label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="steps-simulator" id="toolDos">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="data">
+              <h1 class="text-center">De tasa efectiva a nominal</h1>
+              <div class="form">
+                <div class="row">
+                  <div class="col-md-8">
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Ingresa la tasa de interés</h3>
+                        </div>
+                        <label>Debes ingresar un valor sin el %</label>
+                        <input id="interes2" type="number" placeholder="$0" onchange="getInteres2()">
+                      </div>
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Capitalización deseada</h3>
+                        </div>
+                        <label>Valor</label>
+                        <select onchange="getSelects2()" id="capitalizacion2">
+                          <option value="">Selecciona</option>
+                          <option value="1">Anual</option>
+                          <option value="2">Semestral</option>
+                          <option value="3">Cuatrimestral</option>
+                          <option value="4">Trimestral</option>
+                          <option value="6">Bimensual</option>
+                          <option value="12">Mensual</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Ingresa la periodicidad</h3>
+                        </div>
+                        <label>Periodicidad</label>
+                        <select onchange="getSelects2()" id="periocidad2">
+                          <option value="">Selecciona</option>
+                          <option value="1">Anual</option>
+                          <option value="2">Semestral</option>
+                          <option value="3">Cuatrimestral</option>
+                          <option value="4">Trimestral</option>
+                          <option value="6">Bimensual</option>
+                          <option value="12">Mensual</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="result">
+                      <h3 id="respuesta2">%</h3>
+                      <label>es el resultado de acuerdo con los parámetros que ingresaste. </label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="steps-simulator" id="toolTres">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="data">
+              <h1 class="text-center">De tasa efectiva a efectiva (Distintas periodicidades)</h1>
+              <div class="form">
+                <div class="row">
+                  <div class="col-md-8">
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Ingresa la tasa de interés</h3>
+                        </div>
+                        <label>Debes ingresar un valor sin el %</label>
+                        <input id="interes3" type="number" placeholder="$0" onchange="getInteres3()">
+                      </div>
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Periodicidad Deseada</h3>
+                        </div>
+                        <label>Periodicidad</label>
+                        <input class="disabled" placeholder="Anual" disabled="">
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Ingresa la periodicidad actual</h3>
+                        </div>
+                        <label>Valor</label>
+                        <select onchange="getSelects3()" id="periocidad3">
+                          <option value="">Selecciona</option>
+                          <option value="1">Anual</option>
+                          <option value="2">Semestral</option>
+                          <option value="3">Cuatrimestral</option>
+                          <option value="4">Trimestral</option>
+                          <option value="6">Bimensual</option>
+                          <option value="12">Mensual</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="result">
+                      <h3 id="respuesta3">%</h3>
+                      <label>es el resultado de acuerdo con los parámetros que ingresaste. </label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="steps-simulator" id="toolCuatro">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="data">
+              <h1 class="text-center">De una tasa efectiva en cualquier periodicidad a una tasa efectiva diaria.</h1>
+              <div class="form">
+                <div class="row">
+                  <div class="col-md-8">
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Ingresa la tasa de interés</h3>
+                        </div>
+                        <label>Debes ingresar un valor sin el %</label>
+                        <input id="interes4" type="number" placeholder="$0" onchange="getInteres4()">
+                      </div>
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Periodicidad</h3>
+                        </div>
+                        <label>Periodicidad</label>
+                        <select onchange="getSelects4()" id="periocidad4">
+                          <option value="">Selecciona</option>
+                          <option value="360">Anual</option>
+                          <option value="180">Semestral</option>
+                          <option value="120">Cuatrimestral</option>
+                          <option value="90">Trimestral</option>
+                          <option value="60">Bimensual</option>
+                          <option value="30">Mensual</option>
+                        </select>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6">
+                        <div class="subs">
+                          <h3>Periodicidad actual</h3>
+                        </div>
+                        <label>Periodicidad</label>
+                        <input class="disabled" placeholder="Diaria" disabled="">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="result">
+                      <h3 id="respuesta4">%</h3>
+                      <label>es el resultado de acuerdo con los parámetros que ingresaste.</label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script type="text/javascript" src="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/conversor%20tasas?SRV=cmpnt&amp;cmpntname=js%2Fmain.js&amp;source=content&amp;subtype=javascript&amp;__SPNS__=ns_Z7_2G9I1K41N03720Q6V7HAGV34D4_"></script>
+  </div>
+
+
+        <script>
+                
+        </script>
+		
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_2G9I1K41N03720Q6V7HAGV34D6"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/e9777598-005f-4d57-addd-d8af6df86463/paginator.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-e9777598-005f-4d57-addd-d8af6df86463-nJkqo5r">
+<link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/170c513e-250d-460d-9b56-52f724ad47f4/modal-pyme.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-170c513e-250d-460d-9b56-52f724ad47f4-nJkqonJ">
+
+<style>
+.contactUs .icon-text .description-text p:nth-of-type(2n) {
+    font-weight: 600;
+    text-decoration: underline;
+    font-size: 16px;
+}
+.contactUs .title-section p{font-family: CIBFont Sans light, Open Sans;
+    font-size: 26px;}
+a.link-text {
+    color: #2c2a29;
+}
+.contactUs .icon-text a {
+    text-decoration: none;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    cursor: pointer;
+}
+    #menu-top ul li a {
+    font-size: 14px;
+}
+    a.btn.btn-transparent:focus {
+        color: #000 !important;
+    }
+
+    a.enlaces-social img {
+        margin-bottom: 15px !important;
+    }
+
+    .aaa {}
+
+    section.contactUs.py-5 img.image-icon.d-flex {
+        max-width: 48px;
+        margin: auto;
+        display: block;
+height: 63px;
+    width: 62px;
+    }
+
+    footer {
+        margin-bottom: -30px;
+    }
+
+    section.contactUs.py-5 .description-text {
+        text-align: center;
+    }
+
+    div#main-menu .btnSecundario:hover {
+        background: #2c2a29;
+        border-color: #2c2a29;
+    }
+
+    div#main-menu .btnSecundario:hover img {
+        -webkit-filter: invert(100%);
+        filter: invert(100%);
+    }
+
+    @media (max-width: 1000px) {
+        .row.buttons-contact.d-flex.justify-content-center.mb-3 {
+            max-width: 500px;
+            margin: auto;
+        }
+    }
+
+
+    @media (min-width: 1050px) {
+        .col-lg-2 {
+            width: 20% !important;
+            flex: 0 0 20%;
+            max-width: 20% !important;
+        }
+    }
+
+    section.contactUs .container.mx-auto {
+        max-width: 900px;
+    }
+
+    section.contactUs.py-5 h3,
+    section.contactUs.py-5 p,
+    section.contactUs.py-5 .icon-text.col-6.col-lg-2 a {
+        color: #2C2A29 !important;
+    }
+
+    .container.mx-auto {
+        background: #fff !important;
+        background-color: #fff !important;
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+
+    .contactUs .title-section {
+        margin-bottom: 25px;
+    }
+
+    section.contactUs.py-5 .button-lines.text-center.py-3 {
+        padding-top: 20px;
+    }
+
+    #personasNivel2 {
+        display: block !important
+    }
+
+    .menu__link:focus,
+    .menu__link:hover,
+    .menu__link[data-submenu]:hover::after {
+        color: #ffd200 !important
+    }
+
+    .menu__wrap ul .menu__item:nth-of-type(8) ul .menu__item:nth-of-type(4) {
+        display: none;
+    }
+
+    .links-f {
+        background: url(/wps/wcm/connect/3d4a68d6-4a65-4b1b-a56f-8c1d3b32a75b/superintendencia.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3d4a68d6-4a65-4b1b-a56f-8c1d3b32a75b-l6SXgBc) 2px 36px no-repeat scroll;
+    }
+
+    .home-autopauta-derecha-txt {
+        position: relative;
+        background-color: #f2f2f2
+    }
+
+    .home-autopauta-derecha-txt li a {
+        text-decoration: underline
+    }
+
+    .need-slide-info2 ul {
+        list-style: disc;
+        padding-left: 25px;
+    }
+
+    .btnPrincipal img {
+        width: 15px;
+        margin-top: -4px;
+    }
+
+    .social-mob {
+        padding: 20px;
+    }
+
+    @media screen and (min-width: 768px) {
+        .home-autopauta-derecha-txt .fondo {
+            position: absolute;
+            width: 100%;
+            height: 450px;
+            background-size: cover;
+            background-position: top center;
+        }
+    }
+
+
+    input.btnPrincipal {
+        background: #808080;
+        border: 0px solid;
+        color: #2c2a29;
+    }
+
+    @media screen and (max-width: 767px) {
+        .home-autopauta-derecha-txt .fondo {
+            min-height: 450px;
+            width: 100%;
+            background-size: cover;
+            background-position: 100%
+        }
+
+        input.btnPrincipal {
+            margin-right: -118px;
+            width: 144%;
+            background: #808080;
+            border: 0px solid;
+            color: #2c2a29;
+        }
+
+
+    }
+
+    @media screen and (max-width: 360px) {
+        .home-autopauta-derecha-txt .fondo {
+            min-height: 400px;
+            width: 100%
+        }
+    }
+
+    .home-autopauta-derecha-txt .contenido p a.btn-primary {
+        text-decoration: none !important
+    }
+
+    .home-autopauta-derecha-txt .contenido img {
+        margin: 20px 0
+    }
+
+    @media screen and (min-width: 768px) {
+        .home-autopauta-derecha-txt .contenido img {
+            margin: 24px 0 0 34px
+        }
+    }
+
+    .home-autopauta-derecha-txt .contenido .cont {
+        display: table-cell;
+        height: 450px;
+        padding-top: 52px;
+        vertical-align: middle
+    }
+
+    @media screen and (max-width: 767px) {
+        .home-autopauta-derecha-txt .contenido .cont {
+            padding-top: 0;
+            height: auto
+        }
+    }
+
+    .home-autopauta-derecha-txt .contenido .cont h2 {
+        color: #00448c;
+        margin-left: 34px
+    }
+
+    @media screen and (max-width: 767px) {
+        .home-autopauta-derecha-txt .contenido .cont h2 {
+            margin-left: 0
+        }
+    }
+
+    @media screen and (min-width: 768px) {
+        .home-autopauta-derecha-txt .contenido {
+            width: 100%;
+            top: 0
+        }
+    }
+
+    .buttonHeader .menu-transacciones {
+        background-color: #ffffff;
+    }
+
+    .buttonHeader .menu-transacciones ul li a,
+    .buttonHeader .menu-transacciones .conocer a {
+        color: #222;
+        background-image: none !important;
+        padding-left: 0px !important;
+    }
+
+
+    .buttonHeader .menu-transacciones ul li {
+        margin-top: 5px;
+        text-align: left;
+        padding-left: 10px !important;
+    }
+
+    .buttonHeader .menu-transacciones {
+        width: 290px !important;
+        box-shadow: 0px 1px 8px rgb(0 0 0 / 10%);
+        border-radius: 23px !important;
+    }
+
+    .home-autopauta-derecha-txt .contenido p {
+        margin: 20px 0
+    }
+
+    @media screen and (min-width: 768px) {
+        .home-autopauta-derecha-txt .contenido p {
+            margin: 24px 0 24px 34px
+        }
+    }
+
+    .home-autopauta-derecha-txt .contenido p .more {
+        display: block
+    }
+
+    .buttonHeader .menu-transacciones .cerrar a {
+        color: #222 !important;
+    }
+
+    .buttonHeader .menu-transacciones .cerrar a span {
+        border: 1px solid #222 !important;
+    }
+
+    .buttonHeader .menu-transacciones .conocer {
+        padding-top: 25px;
+        border-top: 1px solid #fff;
+        color: #fff;
+        padding-left: 80px;
+        min-height: 65px;
+    }
+
+    .home-autopauta-derecha-txt .contenido ul.check-list {
+        padding-left: 57px
+    }
+
+    .top-menu .container-fluid .row {
+        background: #fff;
+        z-index: 9999;
+        width: 80%;
+        left: -80px;
+        padding: 10px 30px 30px;
+    }
+
+    .top-menu .container-fluid .row h2 {
+        color: #444;
+        font-size: 18px;
+        font-weight: bold;
+        padding: 17px 0 10px;
+    }
+
+    .top-menu .container-fluid .row a {
+        color: #444;
+        text-decoration: none;
+    }
+
+    .top-nav #menu-filiales,
+    li.dropdown {
+        background: url(/wcm/connect/9dae6a7d-7d8c-4dad-98b7-18da56a25468/flecha-abajo-blanca.png?MOD=AJPERES) right center no-repeat !important;
+    }
+
+    .dropdown-toggle::after {
+        border-top: 0em solid !important;
+    }
+
+    @font-face {
+        font-family: "CIBFont Sans";
+        src: url("/wps/contenthandler/!ut/p/digest!-5nw0XpbZQ97ioYjXZvcgQ/?uri=dav:fs-type1/themes/ThemesFilialesNew/fonts/CibFonts/CIBFontSans-Bold.woff2");
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: "CIBFont Sans" !important ;
+    } 
+
+
+    @font-face {
+        font-family: "CIBFont Sans";
+        src: url("/contenthandler/!ut/p/digest!Amclx-3LaBq5YIJpizmRew/dav/fs-type1/themes/PersonasTheme/fonts/BcoFonts/SansType/CIBFont/BoldType/CIBFontSansBold.woff2");
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWJ0bbck.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFUZ0bbck.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWZ0bbck.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVp0bbck.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWp0bbck.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFW50bbck.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0b.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 600;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUuhp.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 700;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* cyrillic-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOX-hpOqc.woff2) format('woff2');
+        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+    }
+
+    /* cyrillic */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOVuhpOqc.woff2) format('woff2');
+        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+    }
+
+    /* greek-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOXuhpOqc.woff2) format('woff2');
+        unicode-range: U+1F00-1FFF;
+    }
+
+    /* greek */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOUehpOqc.woff2) format('woff2');
+        unicode-range: U+0370-03FF;
+    }
+
+    /* vietnamese */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOXehpOqc.woff2) format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+    }
+
+    /* latin-ext */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOXOhpOqc.woff2) format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 800;
+        src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN8rsOUuhp.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    p,
+    a,
+    li,
+    th {
+        font-family: 'OPEN SANS';
+    }
+
+    #menu-1nivel li a {
+        font-family: 'OPEN SANS' !important;
+    }
+
+    .header .swiper-container .swiper-button-prev:after {
+        width: auto;
+        height: auto;
+        margin-top: -14px;
+    }
+
+    .header .swiper-container .swiper-button-next:after,
+    .forYou .cont-update .swiper-container .swiper-button-prev:after,
+    .forYou .cont-update .swiper-container .swiper-button-next:after {
+        width: auto;
+        height: auto;
+        margin-top: -14px;
+    }
+
+    .contactUs .button-lines.text-center.py-3 {
+        margin-bottom: 0px;
+    }
+
+    li#linkPymes {
+        background: #fff !important;
+    }
+
+    li#linkPymes a {
+        color: #2c2a29 !important;
+    }
+
+    .contactUs .button-lines.text-center.py-3 {
+        margin-bottom: 0px;
+    }
+
+    a.btn.btn-white:focus {
+        color: #000;
+    }
+
+    form.col-xs-12.col-sm-8.busqueda {
+        margin-top: 50px;
+    }
+
+    form#simuForm {
+        padding-bottom: 1px !important;
+    }
+
+    section#need .col-md-12 {
+        padding-top: 1px;
+    }
+footer a.copyright {
+    text-decoration: underline !important;
+}
+
+.acordeon .glyphicon {
+    font-size: 24px;
+    font-weight: bolder;
+}
+.description-text p {
+    text-align: center;
+}
+</style>
+
+<section class="contactUs py-5">
+    <div class="container mx-auto">
+        <div class="title-section text-center">
+            <p style="text-align: center">¿Aún tienes dudas?</p>
+        </div>
+        <div class="row buttons-contact d-flex justify-content-center mb-3">
+            <div class="icon-text col-6 col-lg-2">
+                <a href="/wps/portal/empresas/buscador-sucursales" target="_blank" title=""></a><img class="image-icon d-flex" src="/wcm/connect/www.bancolombia.com-26918/83c779ea-015f-40fa-bf4b-34a8b0e817bb/location.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-83c779ea-015f-40fa-bf4b-34a8b0e817bb-nJVV74v" alt="">
+                <div class="description-text">
+                    <p>Puntos de <br>atención</p>
+                    <p>Visítanos</p>
+                </div>
+            </div>
+            <div class="icon-text col-6 col-lg-2">
+                <a href="/wps/portal/empresas/chatea-con-nosotros/" target="_blank" title=""></a><img class="image-icon d-flex" src="/wcm/connect/www.bancolombia.com-26918/2939f35f-489d-4cb9-867f-e5df56d0f245/comment.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-2939f35f-489d-4cb9-867f-e5df56d0f245-nJVUvdj" alt="">
+                <div class="description-text">
+                    <p>Chat en <br>línea</p>
+                    <p>Escríbenos</p>
+                </div>
+            </div>
+            <div class="icon-text col-6 col-lg-2">
+                <a href="https://asistencia.webv2.allus.com.co/WebAPI802/ClicktoCallBancolombiaEmpresas/ClicktoCall/customer.jsp?fuente=bancolombia%20contacto&amp;segmento=empresas&amp;sitio=aunclic&amp;_ga=2.182226983.1676731785.1619710300-320329311.1619710300" target="_blank"></a><img class="image-icon d-flex" src="/wcm/connect/www.bancolombia.com-26918/8ccbbe5f-d2e4-4526-8dad-0da94c0493e8/phone-contact.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-8ccbbe5f-d2e4-4526-8dad-0da94c0493e8-nJVXDVF" alt="">
+                <div class="description-text">
+                    <p>Llámenos a <br>nuestra línea</p>
+                    <p>018000 91 0090</p>
+                </div>
+            </div>
+            <div class="icon-text col-6 col-lg-2">
+                <a href="/wps/portal/empresas/dejanos-llamarte/" target="_blank" title=""></a><img class="image-icon d-flex" src="/wcm/connect/www.bancolombia.com-26918/61ef2a48-2900-40a0-bafa-9fa1be831d7d/contact-llamada.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-61ef2a48-2900-40a0-bafa-9fa1be831d7d-nJVUY7w" alt="">
+                <div class="description-text">
+                    <p>Prefieres que te <br>llamemos</p>
+                    <p>Cuando quieras</p>
+                </div>
+            </div>
+            <div class="icon-text col-12 col-lg-2">
+                <a target="_blank" title=""></a><img class="image-icon d-flex" src="/wcm/connect/www.bancolombia.com-26918/584fc181-9939-40af-a0ed-9b9e416987b5/parlante.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-584fc181-9939-40af-a0ed-9b9e416987b5-nJVVwq2" alt="">
+                <div class="description-text">
+                    <div>
+                        <p>Contáctanos por <br>redes sociales
+                        </p>
+                    </div>
+                    <div class="row" style="width: 108px; margin: auto; display: flex;">
+                        <div class="col-xs-4">
+                            <a href="https://www.facebook.com/bancolombia" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/2354131b-92ca-49c6-9f70-e7bde8b4f586/facebook+2.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-2354131b-92ca-49c6-9f70-e7bde8b4f586-nO0-OZw" alt=""></a>
+                        </div>
+                        <div class="col-xs-4">
+                            <a href="https://twitter.com/Bancolombia" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/61f9b684-2e55-4348-90c8-7c5f63d87375/twitter+2.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-61f9b684-2e55-4348-90c8-7c5f63d87375-nO0.O6O" alt=""></a>
+                        </div>
+                        <div class="col-xs-4">
+                            <a href="https://wa.me/573013536788" target="_blank"><img src="/wcm/connect/www.bancolombia.com-26918/a65cc181-a046-4102-9499-829fc40f2cd2/whatsapp+2.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-a65cc181-a046-4102-9499-829fc40f2cd2-nO0.Xip" alt=""></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="button-lines text-center py-3"><a href="/personas/contactanos" target="_blank" title="" class="link-text" rel="noopener noreferrer">Conoce todas las líneas telefónicas
+                <svg class="ml-3" width="19" height="16" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.293 17.092L10 17.799L17.485 10.314C17.863 9.936 18.071 9.434 18.071 8.9C18.071 8.365 17.863 7.863 17.485 7.486L10 0L9.293 0.707L16.778 8.193C16.8407 8.25568 16.894 8.32507 16.9373 8.3996H0V9.3996H16.9376C16.8943 9.47446 16.8408 9.54416 16.778 9.607L9.293 17.092Z" fill="#2C2A29"></path>
+                </svg></a>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+<footer>
+    <div class="cajas">
+        <div class="caja-25">
+            <h4 id="T-Caja" class="titulo-caja" onclick="click_toggle(this.id)">Comunícate con nosotros
+                <img src="/wcm/connect/www.bancolombia.com-26918/b789fcbe-158d-4d84-b5b9-a067b3036bd3/flecha-abajo-blanca.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-b789fcbe-158d-4d84-b5b9-a067b3036bd3-nJvWpI-" class="flecha-abajo-footer">
+            </h4>
+            <div class="enlaces box-closed">
+                <a href="/wps/portal/empresas/contactanos/" class="enlaces-caja">Contáctanos</a>
+                <a href="/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/" class="enlaces-caja">Trabaja con nosotros</a>
+                <a href="/wps/portal/about-us/" class="enlaces-caja">About Us</a>
+            </div>
+        </div>
+
+        <div class="caja-25">
+            <h4 id="T-Caja2" class="titulo-caja" onclick="click_toggle(this.id)">Accesos rápidos<img src="/wcm/connect/www.bancolombia.com-26918/b789fcbe-158d-4d84-b5b9-a067b3036bd3/flecha-abajo-blanca.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-b789fcbe-158d-4d84-b5b9-a067b3036bd3-nJvWpI-" class="flecha-abajo-footer"></h4>
+            <div class="enlaces box-closed">
+                <a href="/wps/portal/empresas/capital-inteligente/investigaciones-economicas/" class="enlaces-caja">Investigaciones económicas</a>
+                <a href="/wps/portal/acerca-de/glosario/" class="enlaces-caja">Glosario</a>
+                <a href="/wps/portal/acerca-de/informacion-corporativa/sostenibilidad/" class="enlaces-caja">Sostenibilidad</a>
+                <a href="/wps/portal/empresas/tarifario" class="enlaces-caja">Tarifario</a>
+                <a href="/wps/portal/acerca-de/mapa-del-sitio" class="enlaces-caja">Mapa del sitio</a>
+                <a href="/wps/portal/empresas/transacciones/" class="enlaces-caja">Transacciones</a>
+                <a href="/wps/portal/empresas/productos-servicios/cash-management/pagos/impuestos/calendario-tributario/" class="enlaces-caja">Calendario Tributario </a>
+            </div>
+        </div>
+
+        <div class="caja-25">
+            <h4 id="T-Caja3" class="titulo-caja" onclick="click_toggle(this.id)">Legales <img src="/wcm/connect/www.bancolombia.com-26918/b789fcbe-158d-4d84-b5b9-a067b3036bd3/flecha-abajo-blanca.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-b789fcbe-158d-4d84-b5b9-a067b3036bd3-nJvWpI-" class="flecha-abajo-footer">
+            </h4>
+            <div class="enlaces box-closed">
+                <a href="/wps/portal/empresas/documentos-legales/" class="enlaces-caja">Documentos Legales</a>
+                <a href="/wps/portal/empresas/condiciones-de-uso/" class="enlaces-caja">Condiciones de uso</a>
+                <a href="/wps/portal/empresas/productos-servicios/seguros/licitacion-seguros/" title="" target="" class="enlaces-caja">Proceso licitatorio seguros 2021 - 2023</a>
+                <a href="/wps/portal/empresas/consumidor-financiero/" title="" target="" class="enlaces-caja">Consumidor
+                    Financiero </a>
+            </div>
+        </div>
+
+        <div class="caja-25">
+            <h4 class="titulo-caja">Síguenos en nuestras redes sociales</h4>
+            <div class="social">
+                <a href="https://www.facebook.com/bancolombia" class="enlaces-social"><img src="/wcm/connect/www.bancolombia.com-26918/73b88d48-f8d6-4bbc-8c1d-81c79b1ca92e/facebook+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-73b88d48-f8d6-4bbc-8c1d-81c79b1ca92e-nJvXxxh"></a>
+                <a href="https://twitter.com/Bancolombia" "="" class=" enlaces-social"><img src="/wcm/connect/www.bancolombia.com-26918/17f7e546-e8b3-4ae1-a60d-ee32ed871922/twitter+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-17f7e546-e8b3-4ae1-a60d-ee32ed871922-nJv-4S4"></a>
+                <a href="https://instagram.com/bancolombia/" class="enlaces-social"><img src="/wcm/connect/www.bancolombia.com-26918/6c4121e0-78a9-4067-99f7-7ec59b12e7c0/instagram-sketched+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-6c4121e0-78a9-4067-99f7-7ec59b12e7c0-nJvXruj"></a>
+                <a href="https://www.youtube.com/channel/UCsvQ-hst7CZGaMtHcDe5geQ" class="enlaces-social"><img src="/wcm/connect/www.bancolombia.com-26918/006049b9-f24a-4995-8d8f-8ef40e2c056d/youtube+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-006049b9-f24a-4995-8d8f-8ef40e2c056d-nJvZ9-A"></a>
+                <a href="https://www.linkedin.com/company/22690" class="enlaces-social"><img src="/wcm/connect/www.bancolombia.com-26918/482c058f-9a95-4142-b9ac-136912b17224/linkedin+1.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-482c058f-9a95-4142-b9ac-136912b17224-nJvWO9m"></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="sub-footer">
+        <div class="seccion-interior">
+            <a href="#" class="logo-v"><img src="/wcm/connect/www.bancolombia.com-26918/1136fde2-4716-4e0d-9525-cda53b638cea/Group+4.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-1136fde2-4716-4e0d-9525-cda53b638cea-nJvZkmc"></a>
+            <a class="copyright">Copyright © 2022 Grupo Bancolombia. Productos y servicios de Banca, Fiducia, Leasing, Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las entidades del exterior en Panamá, Cayman, Puerto Rico.<br> Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o superior.<br> Utilizamos cookies propias y de terceros para mejorar nuestro servicio, monitorear información estadística y presentarte contenidos y publicidad relacionados con tus preferencias.</a>
+        </div>
+    </div>
+
+
+</footer>
+
+<script>
+    var f = new Date();
+    var fecha = (f.getFullYear());
+    var copyright = "Copyright © " + fecha + " Grupo Bancolombia. Productos y servicios de Banca, Fiducia, Leasing,"+
+                " Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las"+
+                " entidades del exterior en Panamá, Cayman, Puerto Rico.<br />"+
+                " Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o"+
+                " superior.<br />"+
+                " Utilizamos cookies propias y de terceros para mejorar nuestro servicio, monitorear información"+
+                " estadística y presentarte contenidos y publicidad relacionados con tus preferencias.";
+    var cambio = document.querySelector(".copyright").innerHTML = copyright;
+</script>
+
+<script>
+    function click_toggle(clicked_id) {
+        let padre = document.querySelector('#' + clicked_id).parentNode;
+        let hijo = padre.querySelector('.enlaces').classList.toggle('box-closed');
+        let rotar = padre.querySelector('.flecha-abajo-footer').classList.toggle('rotar');
+    }
+</script>
+
+<script>
+    $("#linkPymes").addClass("active");
+
+    //Funcion guardar nomenclatura de la pagina
+    localStoragePage = "PageVisited_General";
+    function LS_PageVisited_General() {
+        var ubicacion = window.location.pathname;
+        ubicacion = ubicacion.split('/');
+        var tamano = ubicacion.length;
+        var pagina = ""; var inicial = ""; var str = "";
+        jsonhome = ['/personas', '/personas/necesidades', '/personas/productos-servicios', '/personas/aprender-es-facil', '/empresas', '/empresas/necesidades', '/empresas/productos-servicios', '/empresas/capital-inteligente', '/acerca-de', '/acerca-de/negocios-especializados', '/acerca-de/informacion-corporativa', '/acerca-de/sala-prensa', '/about-us', '/banca-inversion/acerca-de', '/banca-inversion/productos-servicios', '/banca-inversion/industrias', '/fiduciaria', '/fiduciaria/acerca-de', '/fiduciaria/productos-servicios', '/leasing-bancolombia', '/leasing-bancolombia/acerca-de', '/leasing-bancolombia/productos-servicios', '/renting-colombia', '/renting-colombia/acerca-de', '/renting-colombia/productos-servicios', '/valores-bancolombia', '/valores-bancolombia/acerca-de', '/valores-bancolombia/productos-servicios', '/factoring', '/factoring/acerca-de', '/factoring/productos-servicios', '/asset-management', '/asset-management/acerca-de', '/asset-management/productos-servicios', '/comercio-internacional', '/comercio-internacional/necesidades', '/sufi', '/sufi/credito-para-lo-que-necesitas', '/sufi/somos-sufi', '/sufi/aprende-con-sufi', '/valores-banistmo', '/valores-banistmo/acerca-de', '/valores-banistmo/productos-servicios', '/fiduperu', '/fiduperu/acerca-de', '/fiduperu/productos-servicios', '/leasing-peru', '/leasing-peru/acerca-de', '/leasing-peru/productos-servicios', '/renting-peru', '/renting-peru/acerca-de', '/renting-peru/productos-servicios', '/sucursal-panama', '/sucursal-panama/acerca-de', '/sucursal-panama/productos-servicios', '/panama', '/panama/acerca-de', '/panama/productos-servicios', '/cayman', '/cayman/acerca-de', '/cayman/productos-servicios', '/bancolombia-puerto-rico', '/bancolombia-puerto-rico/acerca-de', '/bancolombia-puerto-rico/productos-servicios'];
+        var arracomp = [];
+        var comp = [];
+        var k = 0;
+        if (tamano >= 5) {
+            for (i = 3; i < 5; i++) {
+                arracomp[k] = ubicacion[i];
+                k += 1;
+            }
+        } else {
+            arracomp[0] = ubicacion[3];
+        }
+        comp = []
+        if (arracomp[1] != "" && arracomp[1] != null) {
+            comp[0] = '/' + arracomp[0] + '/' + arracomp[1];
+            comp[1] = '/' + arracomp[0];
+        } else {
+            comp[0] = '/' + arracomp[0];
+        }
+        for (k = 3; k < tamano; k++) {
+            var arraystr = ubicacion[k].split('-');
+            tam = arraystr.length;
+            if (tam > 1) {
+                for (j = 0; j < tam; j++) {
+                    str = str + arraystr[j].substr(0, 6);
+                }
+                str = str;
+            } else {
+                str = str + ubicacion[k].substr(0, 6);
+            }
+        }
+        pagina = str.toUpperCase()
+        return pagina;
+    }
+
+    //funcion para guardar en el localstorage la navegación
+    function LS_setPageVisited_General() {
+        var getlocal = localStorage.getItem(localStoragePage);
+        pagina = LS_PageVisited_General();
+        if (getlocal === null || getlocal === "") {
+            localStorage.setItem(localStoragePage, pagina);
+        } else {
+            arraygetlocal = getlocal.split('|');
+            tam = arraygetlocal.length;
+            var str1 = '';
+            if (tam > 1) {
+                for (i = 0; i < tam; i++) {
+                    if (pagina === arraygetlocal[i]) {
+                        str1 = getlocal;
+                        break
+                    } else {
+                        str1 = getlocal + "|" + pagina;
+                    }
+                }
+                localStorage.setItem(localStoragePage, str1);
+            } else {
+                if (getlocal === pagina) {
+                } else {
+                    str1 = getlocal + "|" + pagina;
+                    localStorage.setItem(localStoragePage, str1);
+                }
+            }
+        }
+    }
+
+    LS_setPageVisited_General();
+
+</script>
+
+<script>
+$( "#menu-top .row.nopadding ul li:last-child a" ).each(function() {
+  var aaa = $( this ).html();
+  console.log("sssss "+ aaa);
+if(aaa == "Tu360negocios"){
+$(this).html("Tu360Negocios")
+}
+});
+
+</script>
+
+<script>
+    $(window).load(function () {
+        $(".menu__wrap ul li:first-of-type").css("display", "none");
+        $(".menu__wrap ul li:last-of-type").css("display", "none");
+        $(".menu__wrap ul li:nth-of-type(6)").css("display", "none");
+        $(".menu__wrap ul li:nth-of-type(5)").after('<li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Formación<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/eventos">Eventos</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios-pymes/formacion">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="menu__item dropdown"><a href="#" class="menu__link dropdown-toggle move multiselect" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sectores<span class="caret"></span></a><ul class="dropdown-menu" role="menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria">Agroindustria</a></li><li role="separator" class="divider"></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li class="menu__item"><a class="menu__link" href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>');
+    });
+    $("#menu-top ul li:last-child").css("display", "none");
+    $("#menu-top ul li:nth-of-type(5)").after('<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Formación<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/eventos/">Eventos</a></li><li><a href="/wps/portal/negocios-pymes/formacion/">Social Selling</a></li><li><a href="/wps/portal/negocios/comercio-internacional/importar/empezar/incoterms">Incoterms</a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Sectores<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/wps/portal/negocios-pymes/sectores/agroindustria/">Agroindustria</a></li><li><a href="/wps/portal/negocios/sectores/comercios">Comercios</a></li></ul></li><li><a href="/wps/portal/negocios-pymes/comercio-internacional">Comercio Internacional</a></li>');
+    $(document).ready(function () {
+        var submenuNegocios1 = false;
+        $('#menu-filiales').click(function (evt) {
+            evt.preventDefault();
+            var margin = !submenuNegocios1 ? 0 : '-1000px';
+            $('.top-nav .top-menu > .container-fluid  > .row').animate({ 'margin-top': margin });
+            submenuNegocios1 = !submenuNegocios1;
+        });
+    });
+</script>
+<script src="/wcm/connect/www.bancolombia.com-26918/158f0c64-4625-43aa-8294-338312f02177/slick.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-158f0c64-4625-43aa-8294-338312f02177-nJkp-nW"></script>
+<script src="/wcm/connect/www.bancolombia.com-26918/fe1d75e7-b773-4a18-b740-ba5f5dba34a5/menu-active.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-fe1d75e7-b773-4a18-b740-ba5f5dba34a5-nJkqjQC"></script>
+<script src="/wcm/connect/www.bancolombia.com-26918/b76640bc-d3db-4c21-8568-f844e6dd80fb/js.cookie.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-b76640bc-d3db-4c21-8568-f844e6dd80fb-nJkqjQC"></script>
+<script src="/wcm/connect/www.bancolombia.com-26918/04183ca3-0e14-4889-869b-244773cf4dc4/modal.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-04183ca3-0e14-4889-869b-244773cf4dc4-nJkqjQC"></script>
+<script src="/wcm/connect/www.bancolombia.com-26918/f1656915-41ff-4888-a627-a166624d4b0e/main%281%29.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-f1656915-41ff-4888-a627-a166624d4b0e-nVgbOzm"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/js/swiper.js"></script>
+<script src="/wcm/connect/www.bancolombia.com-26918/6753ba29-f67b-4fc4-84bf-bee708e1605a/mainComercios.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-6753ba29-f67b-4fc4-84bf-bee708e1605a-nWedRqo"></script>
+<!-- Form Validation Plugins -->
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	 
+
+	 
+<div id="informacion" class="modal fade" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">×</button><h3 class="modal-title">Información importante</h3></div><div class="modal-body"><p>El sitio al que ingresarás será administrado por Conversor Tasas., quien regirá los términos y condiciones del mismo.</p><p id="electro"> </p></div><div class="modal-footer"><a href="undefined" target="_blank" class="btn btn_modal btnPrincipal">Continuar</a></div></div></div></div><div id="bancolombiaVideoCarousel" class="modal fade" role="dialog"><div class="modal-dialog" style="width: fit-content"><div class="modal-content" style="padding: 0px"><div class="modal-header"><button id="closeVideoCarousel" type="button" class="close" data-dismiss="modal">×</button></div><div class="modal-body"><iframe id="carouselPymesHome" width="560" height="315" src="" frameborder="0" allowfullscreen="" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-38="true" data-gtm-yt-inspected-43="true" data-gtm-yt-inspected-46338379_101="true"></iframe></div></div></div></div><div id="modalExterno" class="modal fade" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">×</button><h3 class="modal-title">Información importante</h3></div><div class="modal-body"><p>A partir de este momento saldrás del sitio de Grupo Bancolombia y serás redirigido al sitio de nuestra alianza.</p></div><div class="modal-footer"><a href="" target="_blank" class="btn btn_modal btnPrincipal">Continuar</a></div></div></div></div><div id="modalVideoHome" class="modal fade" role="dialog"><div class="modal-dialog" style="width: fit-content"><div class="modal-content" style="padding: 0px"><div class="modal-header"><button id="closeVideoManifiesto" type="button" class="close" data-dismiss="modal">×</button></div><div class="modal-body"><iframe id="videoManifiesto" width="560" height="315" src="//www.youtube.com/embed/misrG1k4hd4?autoplay=1&amp;mute=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.bancolombia.com" frameborder="0" allowfullscreen="" style="max-width: 100%;" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-38="true" data-gtm-yt-inspected-43="true" data-gtm-yt-inspected-46338379_101="true" title="Es el Momento de los que Luchan por lo que Hacen I Bancolombia"></iframe></div></div></div></div></div>	
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-locale-min_es-co.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-animate.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/angular-sanitize.min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/bootstrap.min.js"></script><iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://us.creativecdn.com/tags?type=iframe&amp;id=pr_jhGcnXd71YJghz9Pbt7Y&amp;ncm=1&amp;id=pr_jhGcnXd71YJghz9Pbt7Y_lid_sR57SEcxDd1rJtHSgcso&amp;su=https%3A%2F%2Fwww.bancolombia.com%2Fnegocios%2Fherramientas%2Fconvertidor-de-tasas&amp;sr=https%3A%2F%2Fwww.bancolombia.com%2F&amp;ts=1655744293886" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-38="true" data-gtm-yt-inspected-43="true" data-gtm-yt-inspected-46338379_101="true"></iframe><script type="text/javascript" id="">!function(){var a=window.analytics=window.analytics||[];if(!a.initialize)if(a.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{a.invoked=!0;a.methods="trackSubmit trackClick trackLink trackForm pageview identify reset group track ready alias debug page once off on addSourceMiddleware addIntegrationMiddleware setAnonymousId addDestinationMiddleware".split(" ");a.factory=function(b){return function(){var c=Array.prototype.slice.call(arguments);c.unshift(b);
+a.push(c);return a}};for(var e=0;e<a.methods.length;e++){var f=a.methods[e];a[f]=a.factory(f)}a.load=function(b,c){var d=document.createElement("script");d.type="text/javascript";d.async=!0;d.src="https://cdn.segment.com/analytics.js/v1/"+b+"/analytics.min.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(d,b);a._loadOptions=c};a._writeKey="MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA";a.SNIPPET_VERSION="4.15.3";a.load("MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA")}}();</script>
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:373418,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script><link rel="alternate" href="https://www.bancolombia.com/negocios/herramientas/convertidor-de-tasas" hreflang="es-co">
+<script type="text/javascript" id="">var userId=google_tag_manager["GTM-W95WRK"].macro(28)||null;window.hj("identify",userId,{identify:userId});</script><script type="text/javascript" id="cat-snippet">(function(a,e,f,g,b,c,d){a.ContentAnalyticsToolObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=+new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://scatec.io/t/app.js?id\x3d8bd5285d-42d2-4028-92b6-f7e9538e2984","cat");cat("create","8bd5285d-42d2-4028-92b6-f7e9538e2984");cat("send","pageview");</script>
+	
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/app-min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/autocompletar-min.js"></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/modernizr-custom.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/classie.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/mlmenu.js" defer=""></script>
+	<script type="text/javascript" src="/Bancolombia_Pymes_Info/themes/Bancolombia_Personas/js/main-menu.js" defer=""></script>
+
+	<!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+    This is located here instead of the head section to improve client performance. -->
+	<div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" aria-labelledby="wpthemeComplementaryContentText">
+		<span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+		<script type="text/javascript" src="/contenthandler/!ut/p/digest!mMmUFmuBz31MUmS67H9ehA/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1654943229556&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"Bancolombia_Pymes","themeRootURI":"/contenthandler/!ut/p/digest!3JKaotSk_gMd0aUfF0xN-w/war/Bancolombia_Pymes_Info/themes/Bancolombia_Personas","themeWebAppBaseURI":"/Bancolombia_Pymes/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:Bancolombia_Pymes_Info/themes/Bancolombia_Personas/","modulesWebAppBaseURI":"/themeModules","commonResourcesRootURI":"/contenthandler/!ut/p/digest!mMmUFmuBz31MUmS67H9ehA/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Convertidor de Tasas","currentContentNodeOID":"Z6_2G9I1K41N03720Q6V7HAGV34L5","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"es","portalURI":"","contentHandlerURI":"/contenthandler/!ut/p/digest!sOkwVK5o3LPuj3IoA2noHQ/","pocURI":"/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":true,"canImpersonate":false,"themeRootURI":"/Bancolombia_Pymes/themes/html/dynamicSpots","parentPageID":"Z6_OHHGG4G0POIG00Q706UEHRJ614","currentPageOID":"Z6_2G9I1K41N03720Q6V7HAGV34L5","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_2G9I1K41N03720Q6V7HAGV34L5&#034;&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_2G9I1K41N03720Q6V7HAGV34L5&#034;/&gt;&lt;mapping src=&#034;Z6_2G9I1K41N03720Q6V7HAGV34L5&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_OHHGG4G0POIG00Q706UEHRJ614&#034;/&gt;&lt;node id=&#034;Z6_2G9I1K41N8AD50QDBM0JIMJDS2&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dialog_draggable":"0.0","wp_hiddenpages":"0.0","wp_simple_contextmenu_ext":"0.0","wp_simple_contextmenu_js":"0.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_portlet_css":"0.0","wp_theme_utils":"0.0","wp_toolbar_menuactions":"0.0","wp_toolbar_host_view":"0.0","wp_hiddencontent":"0.0","wp_portal":"0.0","photon.dom":"1.0","wp_photon_dom":"0.0","wp_toolbar_sitepreview":"0.0","wp_client_tracing":"0.0","modules":"0.1","hasBaseURL":"true","wp_state_page_modes":"0.0","wp_toolbar_common_actionbar":"0.0","wp_client_main":"0.0","wp_toolbar_viewframe_validator":"0.0","bcn_modulos_header":"0.0","wp_toolbar_actionbar":"0.0","footer":"0.0","simple-contextmenu":"1.1","css_wcm_custom":"0.0","wp_dialog_css":"0.0","wp_client_logging":"0.0","wp_state_page":"0.0","wp_toolbar_common":"0.0","wp_toolbar_projectmenu":"0.0","wp_dialog_main":"0.0","wp_simple_contextmenu_main":"0.0","wp_toolbar_moremenu":"0.0","wp_custom_page_style":"0.0","wp_toolbar_contextmenu":"0.0","wp_searchbar":"0.0","wp_client_ext":"0.0","wp_simple_contextmenu_css":"0.0","wp_toolbar85":"0.0","wp_modules":"0.0","toolbar":"8.5","wp_dialog_util":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_a11y":"0.0","wp_theme_portal_85":"0.0","wp_dynamicNegocios":"0.0","wp_simple_contextmenu_templates":"0.0","wp_toolbar_logo":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/contenthandler/!ut/p/digest!3JKaotSk_gMd0aUfF0xN-w/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1635169826000&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=bcn_modulos_header__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/contenthandler/!ut/p/digest!3JKaotSk_gMd0aUfF0xN-w/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1654943229000&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_one_ui_303__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;entry=wp_theme_high_contrast__0.0%3Aconfig_js&amp;deferred=true" style="display:none"></a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="/contenthandler/!ut/p/digest!IYV3xao8YxOSleh2rx0iqg/mashup/ra:collection?themeID=ZJ_2G9I1K41NG5E10QG0PQ3L00A24&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"></a></div>
+
+
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><img src="https://t.co/i/adsct?bci=3&amp;eci=2&amp;event_id=fa9e5cc1-44c4-4651-b311-71a595d6d529&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=3ceb516e-8eae-46e6-86f9-ddf9183e9ee9&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fnegocios%2Fherramientas%2Fconvertidor-de-tasas&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=nvl9j&amp;type=javascript&amp;version=2.3.21" height="1" width="1" style="display: none;"><img src="https://analytics.twitter.com/i/adsct?bci=3&amp;eci=2&amp;event_id=fa9e5cc1-44c4-4651-b311-71a595d6d529&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=3ceb516e-8eae-46e6-86f9-ddf9183e9ee9&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fnegocios%2Fherramientas%2Fconvertidor-de-tasas&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=nvl9j&amp;type=javascript&amp;version=2.3.21" height="1" width="1" style="display: none;"><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-63c3a81830bf549dafe40b369003f751.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-38="true" data-gtm-yt-inspected-43="true" data-gtm-yt-inspected-46338379_101="true"></iframe><iframe id="_hjSafeContext_83313499" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-38="true" data-gtm-yt-inspected-43="true" data-gtm-yt-inspected-46338379_101="true"></iframe><iframe tabindex="-1" aria-hidden="true" role="presentation" title="Intentionally blank" name="lpSS_73892152435" id="lpSS_73892152435" src="https://lpcdn.lpsnmedia.net/le_secure_storage/3.17.0.0-release_5076/storage.secure.min.html?loc=https%3A%2F%2Fwww.bancolombia.com&amp;site=29373698&amp;env=prod" style="width: 0px; height: 0px; position: absolute; top: -1000px; left: -1000px; display: none;" data-gtm-yt-inspected-1285339_4574="true" data-gtm-yt-inspected-1285339_700="true" data-gtm-yt-inspected-38="true" data-gtm-yt-inspected-43="true" data-gtm-yt-inspected-46338379_101="true"></iframe><script id="lpSS_35937323295" src="https://lpcdn.lpsnmedia.net/le_secure_storage/3.17.0.0-release_5076/storage.secure.min.js?loc=https%3A%2F%2Fwww.bancolombia.com&amp;site=29373698&amp;force=1&amp;env=prod"></script></body></html>
